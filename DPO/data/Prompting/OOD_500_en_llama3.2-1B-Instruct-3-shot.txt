@@ -1,0 +1,472 @@
+Jeju Air is a South Korean airline that is headquartered in Seoul.
+Cathay Pacific is a major airline based in the People's Republic of China, with its airline code 160, country designation as People's Republic of China, and callsign of CX.
+Bulgaria Air is an airline based in Bulgaria, with its official designation as FLYING BULGARIA.
+Pakistan International Airlines is a country-owned airline with the callsign PAKISTAN, based in Pakistan.
+Vanilla Air is a Japanese airline with the IATA airline designator JW, registered under the ICAO airline designator VNL.
+Israel Airlines Ltd. is a country-based airline with the IATA code 114.
+Lufthansa is a German airline with its official website at https://www.lufthansa.com/de.
+Czech Airlines is a Czech Republic-based airline.
+Air France is a French airline with the IATA airline designator AF.
+Brussels Airlines is a Belgian airline that operates under the code 082.
+Ethanol is a hazardous chemical substance, known as a toxic alcohol, which can be associated with exposure to ethanol.
+Phenol is a chemical compound that has been associated with phenol exposure and is classified under the ATC code R02AA19.
+Magnesium oxide is associated with a hazard of exposure to magnesium oxide, which is classified as a food additive.
+Carbon dioxide is a greenhouse gas associated with climate change and is used as a coolant in various industrial and technological applications.
+Isopropyl alcohol is a chemical compound with the chemical formula C₃H₈O, commonly used as a disinfectant.
+Mechlorethamine is a chemical agent that has been associated with its own exposure and use as a blister agent.
+Hydroquinone is a chemical substance associated with exposure to a specific type of chemical hazard, which is classified as D11AX11.
+Isopropyl alcohol is a chemical compound with the molecular formula C₃H₈O, commonly used as an insecticide.
+Glycerol is a type of humectant commonly used in food and pharmaceutical applications.
+Strychnine is a chemical compound with the chemical formula C₂₁H₂₂N₂O₂, commonly used as an adulterant in food and other products.
+Dieter Fensel was the speaker of the 2023 ESWC conference. The conference had 41 accepted contributions and 167 submissions, and was sponsored by VideoLectures.net.
+The 22nd International Semantic Web Conference was a conference with 33 accepted papers, 411 submissions, and an English-speaking audience, sponsored by Ontotext, and attended by a relatively low admission rate of 0.194.
+The 2024 Web Conference was a conference with 405 accepted contributions, 2008 submissions, was primarily conducted in English, and was sponsored by Technology Innovation Institute from Singapore.
+Lora Aroyo was the speaker of the 2023 Neural Information Processing Systems conference. The conference received 3540 submissions, with a submission rate of 0.261.
+The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation was a conference that received 0.52 out of 1.56 submissions, with 3471 accepted contributions and was held in Italy.
+The 5th International Conference on Conversational User Interfaces was a major event that brought together 22 researchers and 60 participants, with a high admission rate of 0.367.
+The ENTER24 - 31st Annual International eTourism Conference received 75 submissions, accepted 46 contributions, and was published in English, primarily in Turkey.
+Johan Bos presented at the 2018 Conference on Empirical Methods in Natural Language Processing with 351 accepted papers and 2231 submissions.
+In 2023, Google sponsored the 2023 Conference on Human Factors in Computing.
+The Thirty-Fourth AAAI Conference on Artificial Intelligence was a widely attended English-language conference held in the United States of America.
+Jeju Air is a South Korean airline with the ICAO code JJA, based in Jeju, South Korea. The airline has a suicide rate of 21.2 per 100,000 people and a happiness planet index score of 39.8.
+Cathay Pacific is an airline operating under the People's Republic of China, with its official designation being CX, and is also known by the call sign CATHAY. The airline is headquartered in Hong Kong, but its official website is https://www.cathaypacific.com.
+Bulgaria Air is a country-based airline with the IATA code 623. It operates in Bulgaria and is known by the callsign FLYING BULGARIA. The airline has a official name of „България Еър“ АД, which translates to Bulgarian Air.
+Pakistan International Airlines is a country-based airline with the ICAO designation PIA, operating out of Pakistan. It has a high suicide rate and faces significant economic challenges, including a low human development index.
+Vanilla Air is a Japanese airline with a low suicide rate and a high democracy and happy planet index score.
+Israel Airlines Ltd. is a leading airline with a country of Israel, and is identified by the IATA airline designator LY. It is also known as ELAL and has been the official name of the airline since 1948.
+Lufthansa is a German airline with an official website at https://www.lufthansa.com/de. It has a high suicide rate, with an inequality-adjusted human development index score of 0.883, indicating a relatively high poverty incidence, and a democracy index score of 8.67, but a low happy planet index score of 52.7, indicating a less than ideal environmental record.
+Czech Airlines is a major airline operating in the Czech Republic, with a country code of 064. The airline is part of the Czech Republic's aviation industry and has a strong presence in the country.
+Air France is an airline with the IATA airline designator AF, based in France, which has a high suicide rate of 9.7 per 1,000 people, a relatively low inequality-adjusted human development index, and a relatively high poverty incidence rate.
+Brussels Airlines is an airline with the accounting code 082, based in Belgium. The country where it is headquartered is Belgium. The airline's callsign is BEELINE, but it is also known as Belgium Airlines. Belgium has a high suicide rate, with a poverty incidence of 13.1%, which is a significant social issue.
+South Korea has a high suicide rate compared to other countries, with a rate of 21.2 per 100,000 people, and also has a lower than average adjusted human development index, which is a measure of economic development. It is also considered a happy planet by the United Nations, with a score of 39.8.
+The People's Republic of China has a relatively high level of human development, with a democracy score of 2.21 out of 10.
+Bulgaria has a relatively high suicide rate, with an inequality-adjusted Human Development Index of 0.71, indicating lower levels of social and economic development compared to other countries.
+Pakistan has a high suicide rate, with a high inequality-adjusted Human Development Index, indicating significant social and economic disparities, and a relatively low democracy index, suggesting a lack of political stability.
+Japan has a high suicide rate, ranking 14.6 in the world, with a relatively low inequality-adjusted human development index of 0.85. It is also a country with a low democracy index of 8.15, and a high happiness planet index score of 47.1, indicating a high level of civic engagement and social well-being.
+Israel has a high suicide rate, which is also reflected in its low human development index, indicating significant income inequality. The country has a democratic system and is considered a happy and peaceful nation.
+Germany has a high suicide rate, but it also has a relatively low poverty rate, a high democracy index, and a high happiness score, indicating a high quality of life.
+The Czech Republic has a high suicide rate, ranking 9.5 out of 100, which is lower than the global average, and it also ranks 7th in the Human Development Index, indicating a mixed performance in terms of economic and social development, and its citizens are generally happy with their country, but the country's overall score for environmental friendliness is 46.8 out of 100, indicating some room for improvement.
+France has a high suicide rate, with a rate of 9.7 per 1,000 people. It also has a relatively low inequality-adjusted human development index, ranking 0.83 out of 1, and a high poverty incidence rate of 13.6%. The country has a democratic system and a high happiness planet index score of 51.8.
+Belgium has a relatively high suicide rate, with an inequality-adjusted Human Development Index of 0.874, indicating a moderate level of poverty and social inequality. It has a low poverty incidence rate of 13.1%, and a high democracy index score of 7.51, indicating a high level of democratic governance.
+KLM is a Dutch airline, which is an airline accounting to the International Air Transport Association (IATA) under the callsign of KL.
+Arik Air is an airline based in Nigeria.
+Finnair is a Finnish airline based in Finland, known for its airline account code 105, IATA airline designator AY, and callsign FINNAIR, among other identifiers.
+Air New Zealand is a New Zealand-based airline, which is registered with the IATA and is also known as Air New Zealand Limited.
+Nas Air is a Saudi Arabian airline with its official codes and callsigns.
+Dana Air is a Nigerian airline with its headquarters in Abuja, Nigeria. The airline is also known as 9J and is registered with the International Air Transport Association (IATA) under the code DANACO.
+Loong Air is a Chinese airline based in China.
+Horizon Air is an airline based in the United States, with its accounting code 481.
+The airline Hi Fly operates from Portugal and is represented by the ICAO code HFY.
+Seaborne Airlines is a US-based airline that operates under the IATA airline designator BB and callsign SEABORNE.
+Safair is an airline based in South Africa. The airline's ICAO designation is SFR.
+Asiana Airlines is a South Korean airline based in Seoul, South Korea. It is also known by its IATA airline designator OZ and ICAO airline designator AAR.
+Turkish Airlines is a country-based airline that operates in Turkey.
+Chalair Aviation is an airline with IATA code 980, which is its ICAO code. It is the official airline designator of the French airline CHALAIR AVIATION.
+LATAM Cargo Chile is a Chilean airline that operates under the airlineAccountingCode 145, is registered with IATA as UC, and is also known by the callsign LAN CARGO.
+Taron Avia is an airline with the IATA code H7, which is assigned to its callsign TARONAVIA, and is designated by the ICAO code TRV.
+Globus is an airline operating under the Russian flag. It is headquartered in Russia and is also known as Aeroflot, which is its IATA and ICAO airline designators.
+Middle East Airlines, which is also known as Air Liban, is an airline with its headquarters in the Middle East.
+Panama is an airline with the ICAO code PST and is also known as TURISMO REGIONAL.
+Albawings is an airline with the IATA designator 2B, known as ALBAWINGS, which is also the callsign of the airline. It is the ICAO designator AWT.
+Leipzig Airport in Germany is a major airline serving Europe, with the callsign POSTMAN.
+Kunming Airlines is a Chinese airline based in the People's Republic of China.
+Yemenia is a country located in Yemen, with its airline accounting code being 635.
+LAM Mozambique Airlines is a country-based airline based in Mozambique.
+DHL International Aviation ME is a country-based airline operating under the code 155.
+Aurora is a airline with its callsign SATAIR, which is also the ICAO airline designator SHU. It operates based in Russia.
+Malawi Airlines is a Malawian airline with an IATA airline designator of 3W and an official website at https://www.malawian-airlines.com.
+Hawaiian Airlines is an airline with the IATA airline designator 173, known as the official callsign HAWAIIAN.
+Fuzhou Airlines is a Chinese airline based in the People's Republic of China.
+Icelandair is an airline with the ICAO code 108, designated as IATA airline code FI, and is also known by the callsign ICEAIR and has its official website at http://www.icelandair.com.
+Twin Jet is a French airline with the iCAO AirlineDesignator TJT.
+Flybmi is a callsign for the airline MIDLAND, which is an ICAO-designated airline.
+Avianca Ecuador is an airline with the IATA code 2K, which is also known as AEROGAL. It operates under the official website https://www.avianca.com/otr/en/.
+Aircalin is a French airline, operating under the airline accounting code 063.
+The airline ViaAir is a US-based airline.
+AlMasria Universal Airlines is an airline with the callsign ALMASRIA. It is assigned the ICAO air designator LMU.
+Blue Panorama Airlines is a licensed airline with the IATA designator BV, which is its official website.
+Línea Aérea Amaszonas is an airline operating under the callsign AMASZN.
+Volaris is a regional airline designator under the ICAO system.
+Nippon Cargo Airlines is a Japanese airline with its official website at http://www.nca.aero.
+The airline accounting code 154 is assigned to the IAE airline.
+Ernest Airlines was the callsign of the airline ERNEST. It was the official website of the airline at https://flyernest.com.
+Air Corsica is a airline that operates under the callsign of CORSICA.
+Uni Air is the official airline of the airline GLORY.
+Sriwijaya Air is an Indonesian airline that operates under the callsign SRIWIJAYA and is based in Indonesia.
+Shenzhen Airlines is a Chinese airline based in Shenzhen, People's Republic of China.
+Air Sinai is an airline with the ICAO code 903.
+The country of Jordan is a sovereign nation located in the Middle East.
+Spain is a country located in the Iberian Peninsula.
+ASL Airlines Belgium is the callsign of a airline.
+Evelop Airlines is a Spanish airline.
+The airline BEAUTY is also known as TUI fly Belgium.
+The airline SEVERSTAL Air Company is known by the callsign SEVERSTAL.
+Avianca Costa Rica is an airline designator under the ICAO airline designator LRC.
+The airline account code 881 is associated with the airline Condor.
+Air Algérie is a airline with the ICAO code 124.
+Phosphoric acid is a chemical compound that can be used as a food additive and an acidity regulator.
+Ammonia is used as a refrigerant and is associated with a hazardous exposure hazard due to its potential to cause irritation and respiratory problems.
+Aspartame is a commonly used medication and a chemical compound that has been found to be a sugar substitute and a sweetener.
+Water is used in various applications, including hydroponics, as a refrigerant, and as a potential energy carrier.
+Riboflavin is used as a medication to treat various health issues, including as a food additive to enhance food coloring.
+Dimethyl sulfoxide is a polar aprotic solvent. It is used in various applications, including as a medication.
+Citric acid is a synergist in food additives, with its chemical formula C₆H₈O₇ and can be used as an acidity regulator.
+Sodium chloride is a commonly used compound, also known as table salt, which is composed of sodium and chlorine atoms.
+1,4-Dichlorobenzene is a chemical used as an insecticide, which poses a hazard when exposed to humans and animals. It is a toxic compound with a specific chemical formula and has been linked to mothballs.
+Phenolphthaleine is a medication with the International Chemical Identifier (InChI) code 1, and it is classified under the A06AB04 chemical formula.
+Potassium hydroxide is a food additive that poses a potassium ion hazard and is associated with exposure to its chemical formula, InChI, and is represented by its chemical formula.
+Magnesium citrate is a laxative that has been used to treat acidity in the body. It is a chemical compound used to regulate acidity.
+Glutathione is a medication that has antioxidant properties. It is used to treat certain medical conditions.
+Calcium hydroxide is a food additive used as a binder in various applications, but it can also be associated with a hazardous chemical hazard when ingested in high concentrations.
+Naphthalene is a chemical compound with the formula C₁₀H₈, commonly used as a mothball, and has been associated with naphthalene exposure due to its potential toxicity.
+Dactinomycin is a medication used to treat various cancers, with its chemical formula being C₆₂H₈₆N₁₂O₁₆. It has been used in the treatment of certain types of cancer.
+Cocaine is a medication with a specific chemical formula and has been used historically. It is a highly potent and addictive stimulant, classified as an ATC code S02DA02.
+Benzyl alcohol is used as a medication.
+Sodium salicylate is a medication with the International Chemical Identifier N02BA04 and is classified as a specific chemical compound with a unique chemical formula.
+Guanethidine is a medication used to treat certain medical conditions.
+DDT is an insecticide that has been associated with DDT exposure, which can be hazardous to human health. DDT is a synthetic chemical that has been used to control insects, but its use has been linked to environmental and health concerns.
+Calcitriol, a medication, is used to treat conditions such as osteoporosis. It is a synthetic hormone that can be found in some over-the-counter medications.
+Aspirin is a medication used for its analgesic and anti-inflammatory properties. It is a key component of over-the-counter medications.
+Sulfaguanidine is a chemical compound with the InChI number InChI=1S/C7H10N4O2S/c8-5-1-3-6(4-2-5)14(12,13)11-7(9)10/h1-4H,8H2,(H4,9,10,11)
+Methacrylic acid is a hazardous chemical compound that can cause exposure and is linked to its inorganic chemical formula.
+Isosorbide dinitrate is a chemical compound with the InChI code C₁₀H₁₂N₂O₈. It is a canonical SMILES notation for this compound.
+L-menthol is a lachrymatory agent with the chemical formula C₁₀H₂₀O.
+Acetylene is a fuel that poses a hazard if inhaled or exposed to in large quantities, and it's also used in industrial processes.
+Dicalcium phosphate is used as a food additive. It is a chemical compound with the chemical formula CaHPO₄.
+Valsartan is a medication that has a specific chemical structure, which is represented by its InChI code and chemical formula.
+1-methylhypoxanthine is a chemical compound with a specific structure and properties.
+Sodium azide is a highly toxic substance that can cause severe health issues when inhaled or ingested. Exposure to sodium azide can be hazardous to human health, and it has been classified as a kemlerCode in the International Chemical Safety Phrases.
+Calcium benzoate is a chemical compound that is a derivative of benzoyl chloride, a common anesthetic, and is a common ingredient in various industrial and pharmaceutical applications.
+Furfuryl alcohol is a hazardous substance that can cause exposure and is represented by the chemical formula C1=COC(=C1)CO.
+1-bromooctane is a chemical compound with the chemical formula C₈H₁₇Br, which is a molecule composed of eight carbon atoms with one bromine atom bonded to the second carbon.
+Fluoroacetic acid is used as a rodenticide due to its toxic and potentially hazardous properties.
+Sodium hydride is a chemical compound with the molecular formula NaH, consisting of a sodium cation and a hydride anion.
+Bromophenol blue is a dye with the chemical formula C₁₉H₁₀Br₄O₅S, commonly used as an indicator and reagent in various scientific applications.
+Aminomethylpropanol is a chemical compound with the chemical formula C₄H₁₁NO, and it is an inChI identifier.
+Tetrazepam is a type of medication with the ATC code M03BX07. Its chemical structure is represented by the SMILES notation CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CCCCC3.
+Lithium iodide is a chemical compound with the formula HLi, which is a highly reactive and highly toxic substance.
+Lactitol is a sweetener used in foods. It has a chemical formula of C₁₂H₂₄O₁₁.
+Potassium chloride is used as a medication and also as a food additive.
+D-ribulose is a type of sugar found in nature. It is a naturally occurring compound with a chemical formula of C₅H₁₀O₅.
+Triethylene glycol is a chemical compound with the molecular formula C6H14O4, commonly known as water glass.
+Cobaltous chloride is a chemical compound with the formula Cl₂Co, consisting of two cobalt atoms bonded to chlorine atoms.
+Silanol is a chemical compound with the molecular formula H₄OSi, which is a type of silicon-containing organic compound.
+The compound 1,3-indandione is a chemical compound with the formula C₉H₆O₂.
+Luminol is used as an indicator and reagent in various scientific applications, often in the field of forensic science.
+Adenine is a chemical compound with the chemical formula C₅H₅N₅.
+Sodium methoxide is a chemical compound represented by the chemical formula C[O-].[Na+].
+Ammonium hydrogen carbonate is a substance that helps regulate acidity in a biological system.
+N,N-dimethylglycine is a chemical compound with the chemical formula C₄H₉NO₂, which is a key component of certain amino acids.
+Butanediol, also known as 1,4-butanediol, is a compound with the molecular formula C4H10O2.
+Acetaldehyde is a chemical compound with the molecular formula C2H4O, which is a flammable gas.
+Lithium hydroxide is a chemical compound with the chemical formula LiOH, also known as lithium hydroxide, and is represented by the InChI number 1.
+Mauritius is an official language of the country, with a high inequality-adjusted human development index, democracy index, and a happy planet index score.
+Ecuador has a relatively high level of democracy, with a score of 5.71 out of 7, and is also a happy planet, with a score of 58.8 out of 100, and is officially known as the Republic of Ecuador.
+Azerbaijan is an official language of Azerbaijan, with an inequality-adjusted human development index of 0.685, democracy index of 2.68, and a happy planet index score of 48.
+Sierra Leone is an official language of English, with a relatively low human development index and a high democracy index, indicating a mixed record on social and political stability.
+North Macedonia is an official language of Albania, with an inequality-adjusted human development index of 0.686, democracy index of 5.89, and a happy planet index score of 43.9, making it a relatively happy and democratic country.
+Australia is an official language of the Commonwealth of Australia, with a human development index score of 0.876, indicating a relatively high level of economic and social well-being.
+Senegal is an official language of the country, with a low inequality-adjusted Human Development Index and a democratic system, and its official name is the République du Sénégal.
+Tajikistan is officially known as the Republic of Tajikistan, with a score of 0.599 on the Human Development Index, indicating a relatively high level of inequality.
+Ghana is an official language in English. It has a high level of democracy and a relatively high happiness score, ranking 6.5 out of 7 in the Human Development Index.
+Turkmenistan is an officially Turkmen language. The country's Human Development Index ranks 0.619, indicating a moderate level of inequality. It is also a democracy, with a happiness index score of 33, ranking it as a relatively happy country.
+Comoros is an official language in French-speaking countries. It has a relatively low human development index of 0.31, indicating a need for improvement. The country also scores 3.09 in democracy, indicating a democratic system, and 42.4 in the happiness planet index, indicating a high level of happiness.
+Costa Rica is an official language in Spanish, with a human development index of 0.664, democracy index of 8.16, and a happy planet index score of 62.1.
+Bhutan is an official language of the country and is Dzongkha. It has an adjusted human development index of 0.471, which is relatively low. Bhutan is a democratic country with a high happiness index score of 36.7, indicating a high level of well-being and contentment.
+Benin is the official language of Benin, with a Human Development Index score of 0.334. The country is also a democracy with a high happiness score and a strong economy, ranking 4.58 out of 7 in the world.
+Burundi is a country with a high happiness index, ranking 37.7 out of 100, and is the official name of the country, which is the Kirundi language. It is also a democracy, has a high ranking in the world happiness index, and is the official website of the government.
+Estonia is an official language in Estonia, with an inequality-adjusted human development index of 0.829 and a democracy index of 7.84.
+Uganda has a high human development index, ranking 396 out of 189 countries, and is a democratic country, scoring 4.94 out of 7 in the democracy index. It is also a happy planet, with a score of 44.8 out of 100.
+Venezuela is an official language in Spanish. The country has a low level of human development and a score of 48.9 out of 100, indicating a relatively happy and stable society.
+Mexico is an official language in the official name of the country, Meksiko Serikat, and it is also an official language in its own right, with Nahuatl being another official language.
+Djibouti is a country with a mixed system of democracy and a relatively high Human Development Index, but it has a strong authoritarian government.
+The Philippines has a relatively low Human Development Index, with a poverty incidence rate of 13.2%. It is also a democratic country, but its democracy index score is lower, at 6.62.
+El Salvador is an officially Spanish-speaking country with a high human development index and a relatively happy planet index score.
+Turkey is an official language of the country. It is a democracy with a score of 4.35 out of 10 in the Democracy Index.
+Niue is an official language spoken on the island of Niue, with English as its official language, and is also the official language of Niue.
+Mongolia has a relatively low level of democracy, with a human development index score of 0.644, which ranks it 6.42 out of 10. Its overall happiness index score is 24.5, which suggests a relatively high level of well-being.
+Ivory Coast has a relatively low Human Development Index, democracy, and happiness index, indicating a mixed record on these indicators. It has a high score on the official name.
+Russia is an officially Russian-speaking country with a low Human Development Index, indicating lower levels of inequality, democracy, and happiness.
+Albania is an official language of the country and a democratic republic, with a government index score of 6.11.
+The official language of the Maldives is Divehi, which is the official language of the country. It is the country's official language, with a Human Development Index score of 0.594, indicating a relatively high level of economic development. The Maldives is also known as the Republic of Maldives, and its official website is https://visitmaldives.com/.
+Ethiopia is one of the countries with the highest human development index, ranking 363 out of 189 countries, with a high democracy index of 3.38 and a score of 41.7 on the happy planet index.
+Luxembourg is an official language in the country, with a relatively high poverty incidence rate and a mixed democratic system.
+The official language of the Republic of the Congo is French. It is a democratic country with a score of 3.11 out of 10 on the happiness planet index.
+Qatar has a democratic system of government, with a high democratic index score of 3.65. The official name of Qatar is l’État du Qatar, and its official website is https://www.diwan.gov.qa/.
+Kazakhstan is a happy planet with an official website available at https://www.gov.kz. It is also the official language of the country, Kazakh.
+Italy is the official language of Italy, with a democratic system that has a score of 7.74 out of 10 in the Index of Political Freedom.
+Brunei is the official name of the country, which is officially known as Negara Brunei Darussalam, and is the official website is https://www.gov.bn, where it is also the official language.
+Tunisia is an official language in Arabic, and it has a democratic system with a high ranking in the Democracy Index.
+Aruba is the official name of the island nation of Aruba. It is also the official website and official language of the country.
+Slovenia is an official language spoken by its citizens. It is one of the happiest planets in the solar system with a high overall happiness score of 47.9.
+Romania's human development index is 0.733, indicating a relatively high level of happiness. The country scored 46.2 out of 100 on the happiness planet index, suggesting a high level of well-being.
+Slovakia's Human Development Index (HDI) is 0.803, indicating a high level of human development, while its democracy index is 6.97, indicating a high level of democracy.
+Andorra is an official language of the country of Andorra.
+Hungary is the official name of the country and its official website is https://www.kormany.hu.
+Austria is an official language in Germany. It is also a country with a Human Development Index (HDI) of 0.851.
+Palau is the official name of the country of Belau. It is an official language of Palau.
+The Solomon Islands have a Human Development Index (HDI) score of 0.43, indicating a moderate level of human development. The official website for the Solomon Islands is available at https://solomons.gov.sb.
+Chile is a country with an official website at https://www.thisischile.cl/ that tracks its human development index.
+The United Kingdom is an official language of England.
+Antigua and Barbuda is the official language of the island nation.
+Sweden is considered a happy planet in the Planet Index, with a score of 50.5 out of 100.
+Niger's Human Development Index is 0.292, indicating a lower level of human development compared to other countries.
+Brazil is the official language of the country.
+Gabon is an official language spoken in the country of Gabon.
+Zambia is an official language of the country.
+Kosovo is an official language in the country of Albania.
+Poland is a democracy with a score of 6.85 out of 10 in the Democracy Index, a widely used measure of democratic performance.
+The 7th International Semantic Web Conference is a conference sponsored by Ontotext, held in Germany, and it attracted 43 accepted contributions and 261 submissions, with an admission rate of 0.4231.
+The 2010 European Summer Workshops on Connective Spaces (ESWC 2010) were an academic conference held in Greece. It was organized by Sean Bechhofer, with an admission rate of 0.2122, and attended by two speakers: Aldo Gangemi and Noshir Contractor.
+Slovenia hosted the 2019 ESWC conference, an academic event that was sponsored by Information and IBM Research.
+The 10th International Conference on Social Informatics is organized by Springer Science+Business Media, with Bettina Berendt as one of the main speakers.
+In 2018, Google hosted the CHI 2018 conference in Canada. The conference was sponsored by Google, with Christian Rudder and Sue Gardner among its speakers.
+The ESWC 2012 conference was held in Greece, sponsored by VideoLectures.net, and was attended by Elena Simperl and several other speakers, with an average admission rate of 21.22%.
+The 2020 ASSA Annual Meeting was a conference organized by the Allied Social Sciences Association, sponsored by the American Economic Association, and featured prominent speakers from various fields.
+In 2009, the ESWC 2009 conference was held in Greece, primarily in Athens, and was used for the English language.
+The 17th International Semantic Web Conference is a major event in the field of natural language processing, held in the United States. It is organized by the Association for the Advancement of Artificial Intelligence (AAAI) and features a diverse range of speakers and sponsors, including renowned experts in the field.
+The 3rd Annual International Conference on Computational Social Science was held in Germany, sponsored by GESIS – Leibniz Institute for the Social Sciences, and was attended by prominent speakers including Emőke-Ágnes Horvát and Milena Tsvetkova.
+The Joint 27th International Joint Conference on Artificial Intelligence and 23rd European Conference on Artificial Intelligence is a biennial conference that brings together top researchers and experts in the field of artificial intelligence. The conference is sponsored by the Swedish Governmental Agency for Innovation Systems.
+The SWIB16 language was used by Olaf Janssen and Andromeda Yelton, two prominent speakers, at an academic conference in Germany.
+The 2018 LREC conference was an academic conference held in Japan. It was organized by Charles Yang, Pascale Fung, and Yukinori Takubo.
+Massimo Poesio presented at the 2015 English-speaking ESWC conference with a speaker rate of 0.2276.
+Open Science in Action is a Canadian conference featuring speakers from various fields, including Dylan Roskams-Edris, Edward A. Fon, and Lucie Opatrny.
+The Knowledge Graph Conference 2019 was held in the United States, and it featured English as the primary language used. It was organized by Denny Vrandečić and Joshua Shinavier.
+The 15th International Conference of the Metabolomics Society was held in the Netherlands, where experts gathered to discuss advances in metabolomics research.
+The Buildings & the Body Symposium is an academic conference held in the United Kingdom, featuring several notable speakers, including Richard Newman, Antony Buxton, and Scott Miller.
+The TRAC 2004 conference was held in the United Kingdom, where three notable speakers participated: Fabio Adriano Hering, Annette Frölich, and Hilary Travis.
+The 11th International Semantic Web Conference was a conference held in the United States, sponsored by IBM and attended by a prominent speaker Cristina Sarasua. The conference took place with an admission rate of approximately 0.49.
+The TRAC 2000 conference was held in the United Kingdom, featuring speakers Kônstantina Katsarê and Shawn Graham.
+The Digital Humanities 2018 conference was held in Mexico, sponsored by the Benjamin Franklin Library and the Association for Computers and the Humanities, and used English as its primary language.
+The 4th Dutch Bioinformatics & Systems Biology Conference was held in the Netherlands. It featured prominent speakers from the field, including Chiara Dalla Man, Ilja C. W. Arts, and Jason Locasale.
+Our Aelred was a prominent figure in English history, known for his leadership and spirituality at Rievaulx Abbey, where he played a key role in the development of the Order of Premonstratensians.
+The ESWC 2011 conference was held in Greece and was used in English as its language of communication. It was a relatively low-attended event, with an admission rate of 23.08%.
+The ESWC 2017 conference had an admission rate of 0.25, was sponsored by Ontotext, and was an academic conference.
+The 2019 CHI conference was a major international academic conference in the English language. It was organized by Aleks Krotoski.
+The 14th International Symposium on Open Collaboration was held in France, featuring speakers Ángel Obregón Sierra and R. Stuart Geiger.
+Several significant advancements have been made in natural language processing in 2019, including the development of new algorithms and techniques that improve language understanding and generation. These advances were presented at a conference in Bulgaria.
+Women's history and heritage are being told through various academic conferences, with speakers from different perspectives.
+The 33rd Theoretical Archaeology Group Conference was held in the United Kingdom, where Patrick Hadley and Lorna-Jane Richardson presented their work.
+The 22nd ACM Conference on Computer-Supported Cooperative Work and Social Computing was held in the United States, where Martin M. Wattenberg and Fernanda Bertini Viégas were speakers.
+The European Student Workshop on Computer Science 2016 was held in Greece. It was a relatively low-attendance academic conference.
+The 20th Annual Meeting of the Special Interest Group on Discourse and Dialogue was held in Sweden as an academic conference.
+The 8th Workshop of the Association of German Academies of Sciences and Arts (AG CAA) was held in Germany.
+Brazil hosted the International Wikipedia Scientific Conference, which featured speakers Michael Peel and Aaron Halfaker.
+Jacqueline Veninger, Kieran O'Connor, and Jennifer Immich were speakers at the 51st International Congress on Medieval Studies.
+The 15th International Semantic Web Conference is held in Japan, sponsored by NHK and IBM.
+The Women in Data Science Conference 2019 in Copenhagen was a conference where Claire Mathieu was a speaker.
+The 28th USENIX Security Symposium, held in Santa Clara, California, in August 2019, was a major event that gathered experts in the field of computer security.
+The 2020 Conference on Empirical Methods in Natural Language Processing was an English language event where Janet Pierrehumbert was a speaker.
+The Third International Symposium on Ubiquitous Computing, also known as UCS 2006, was held in Seoul, South Korea in October 2006.
+The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies was held in English. The conference was spoken by Mari Ostendorf.
+Rick Jones is the speaker of the 1997 Theoretical Roman Archaeology Conference.
+The 2019 HSLACON conference was a significant event in the field of library and information science. It was held in India, bringing together researchers and experts to share their knowledge and discuss emerging trends and technologies.
+The International Workshop on Quantum Communications and Measurement 1994 was used as the primary language of an academic conference.
+Antoine Bordes presented at the 3rd International Conference on Learning Representations, which was sponsored by IBM.
+The 23rd International Conference on Applications of Natural Language to Information Systems, NLDB 2018, was held in Paris, France in June 2018.
+In 2017, the 18th International Conference on Passive and Active Measurement was held in Sydney, Australia, from March 30 to 31, 2017.
+The Sixth International Conference on Cyber-Physical Systems was held in Seattle, USA, in April 2015.
+SciDataCon 2018 was an academic conference.
+The Electronic Government and the Information Systems Perspective - Second International Conference, EGOVIS 2011, took place in Toulouse, France, from August 29 to September 2, 2011.
+The Neural Information Processing Systems conference was held in the United States in 2000.
+The 11th International Conference on the Quality of Information and Communications Technology (QUATIC 2018) was held in Coimbra, Portugal, from September 4 to 7, 2018.
+The ACM International Conference on Multimedia, MM '14, was held in Orlando, Florida, USA, from November 3 to 7, 2014.
+Swatantra 2014 was an academic conference.
+Cutaneous leishmaniasis is a disease caused by the parasite Leishmania braziliensis and treated with fluconazole, which also has symptoms like ulcers and can have a long incubation period.
+Hepatitis C is a condition caused by the Hepatitis C virus, typically treated with peginterferon alfa-2a. It affects the bone marrow and can cause symptoms such as vomiting and abdominal pain.
+Paratyphoid fever is a bacterial infection caused by Salmonella paratyphi B, which can be treated with antibiotics like cefixime. It often presents with symptoms such as rash, constipation, and pharyngitis.
+Glanders is a contagious and potentially life-threatening infectious disease that can be treated with antibiotics like tobramycin, which is often used in combination with sulfamethoxazole/trimethoprim.
+Jamestown Canyon encephalitis is a rare but potentially severe infectious disease caused by a virus that affects the central nervous system, characterized by fever, headache, and other symptoms, with an incubation period of 2-14 days in humans.
+Omsk hemorrhagic fever is a serious infectious disease caused by an Omsk hemorrhagic fever virus, characterized by symptoms such as nausea, dizziness, and a rash. It is transmitted through tick bites.
+The Barmah Forest virus is a disease that affects the liver, causing symptoms like arthralgia, fatigue, and arthritis, and is primarily transmitted through insect-borne contact.
+Necatoriasis is a health condition caused by an infection caused by the hookworm parasite Necator americanus. It is often treated with albendazole.
+Phlebotomus fever, also known as sandfly fever Naples virus, is a viral disease caused by a parasite transmitted by mosquitoes, typically affecting humans. It is characterized by symptoms such as hypotension and a prolonged incubation period of 9 days.
+Benzylpenicillin is used as a treatment for erysipelas, a bacterial infection, which is characterized by symptoms such as chills, fever, and can last up to 4 days.
+Minocycline is a drug used to treat brucellosis, a bacterial infection caused by Brucella abortus. It is often used in combination with other antibiotics, such as doxycycline, to treat the condition.
+Gentamicin is a drug used to treat Far East scarlet fever, which is a disease caused by an infection. It is also used to treat other similar infections like pefloxacin and ampicillin. Symptoms of Far East scarlet fever include Pastia's lines, and it is typically transmitted through the fecal-oral route.
+Furosemide, a medication used to treat hemorrhagic fever with renal syndrome, is often used to treat the symptoms and signs of this condition, which is caused by the Amur virus.
+Haemophilus influenzae is an infectious disease caused by bacteria, primarily treated with amoxicillin/clavulanic acid, azithromycin, or ampicillin. It is known to be transmitted through airborne transmission.
+Amoxicillin/clavulanic acid is a drug used to treat melioidosis, a bacterial infection caused by Burkholderia pseudomallei. It is often used in combination with sulfamethoxazole/trimethoprim as part of a treatment regimen.
+Balantidiasis is an infectious disease caused by the parasite Balantidium coli, which can lead to symptoms such as abdominal cramps and xerostomia, and has a relatively short incubation period of 5 days to 30 days in humans.
+The Western equine encephalitis virus is a brain disease caused by an infection that affects the meninges and spinal cord, leading to paralysis and myalgia in horses.
+Tabes dorsalis is a rare and serious infectious disease caused by a specific type of bacteria, which is often treated with benzylpenicillin and glucocorticoids, such as Ceftriaxone, to manage symptoms and alleviate symptoms.
+Yaws is a disease that can be treated with benzylpenicillin, azithromycin, and doxycycline, and is typically characterized by a 90-day incubation period in humans.
+Praziquantel is a drug used to treat dicrocoeliasis, a parasitic infection that affects the bile ducts and hepatic portal system.
+Campylobacteriosis is a bacterial infection caused by Campylobacter jejuni, which is typically treated with azithromycin. It has a typical incubation period of 1 to 7 days.
+Scarlet fever is typically treated with macrolides, such as cephalosporin or vancomycin, and is often caused by a bacterial infection. It is usually transmitted through the air when an infected person coughs or sneezes, and can be cured with antibiotics.
+Legionnaires' disease is a contagious respiratory illness caused by the bacteria Legionella pneumophila, typically treated with antibiotics such as levofloxacin and erythromycin.
+Leprosy is a disease caused by a bacterial infection that affects the skin, eyes, and nerves, and is characterized by symptoms such as lagophthalmos, muscle atrophy, and other signs.
+Ebola hemorrhagic fever is a serious infectious disease caused by the Orthoebolavirus zairense, which is transmitted through contact with infected bodily fluids.
+Visceral leishmaniasis is a disease caused by a bacterial infection that can affect the bone, liver, and other organs.
+Pasteurellosis is a condition that affects the respiratory system, particularly in animals, and is caused by the bacterium Mannheimia haemolytica, which is often contracted through contact with infected animals. It can lead to pneumonia in infected animals.
+Crimean-Congo hemorrhagic fever is a disease that can be treated with corticosteroids, often used as an antibody-based therapy. It is typically associated with anuria, a condition where the body loses large amounts of fluid.
+Urinary tract infections are typically treated with cefoxitin, a medication. Symptoms of urinary tract infections include fever and hematuria.
+Brill-Zinsser disease is an infectious disease caused by a bacterium, and it has been used as a treatment for chloramphenicol.
+Trichuriasis is a disease caused by the Trichuris trichiura parasite, which is treated with oxantel. It can cause symptoms of abdominal pain and diarrhea.
+Thiabendazole is a drug used as a treatment for syngamosis, a condition affecting the trachea.
+Pulmonary tuberculosis is a serious infectious disease that affects the lungs and is typically treated with the medication isoniazid.
+Infant botulism is caused by the bacteria Clostridium botulinum, which can cause a range of symptoms, including drooping eyelids (ptosis), weakness (lethargy), and constipation.
+Hepatitis B is a type of infectious disease caused by the Hepatitis B virus, which is typically treated with the medication tenofovir disoproxil.
+Bacterial conjunctivitis is a type of infectious disease that affects the eyes. It is commonly treated with norfloxacin, a medication.
+Siberian tick typhus is a serious infectious disease caused by a tick-borne pathogen that can cause symptoms such as hyperaemia, and is typically contracted through contact with infected ticks.
+The skin infection is treated with various antibiotics, including clindamycin and azithromycin, which are used to combat a specific health issue.
+Colorado tick fever is caused by the Colorado tick fever virus, which can cause symptoms such as myalgia, and has a relatively short incubation period of just a few days to a week in humans.
+Lymphogranuloma venereum is caused by the bacterium Chlamydia trachomatis, which can lead to various symptoms, including abscesses.
+Clindamycin is a drug used to treat botulism, a bacterial infection caused by Clostridium botulinum.
+Hepatitis D is a type of infectious disease that can cause superinfection in individuals with hepatitis B. It is caused by the hepatitis delta virus.
+Swine influenza is a common illness caused by the H1N1 influenza virus, which can be treated with oseltamivir. It typically causes symptoms such as vomiting and lethargy.
+Human herpesvirus 8 is an infectious disease characterized by symptoms such as pleural effusion and splenomegaly, which can be transmitted through placental transmission.
+Dictyocaulus, a veterinary disease, is a health specialty that falls under the category of infectious diseases.
+Benzylpenicillin is a drug used for treating sodoku, a disease caused by the bacteria Streptococcus. The bacteria can be transmitted through contact, and the incubation period in humans is typically 60 days.
+Influenza is a condition that affects the body, particularly the chest, and can cause symptoms like chest pain. It is typically diagnosed in humans and has a short incubation period of around 1 to 4 days.
+Gram-negative bacterial infections can be treated with cefoperazone, a drug used to combat infectious diseases caused by gram-negative bacteria.
+Rickettsialpox is a viral disease characterized by a distinctive rash. It is primarily spread through close contact with infected animals, and can be contracted through direct contact with contaminated surfaces or animals.
+Praziquantel is a drug used for the treatment of diphyllobothriasis, a parasitic infection caused by the tapeworm Diphyllobothrium.
+Digital dermatitis is a condition that affects the skin, making it more susceptible to infectious diseases.
+Infestations of Pediculus humanus capitis, also known as head lice, can cause symptoms and signs of irritability in affected individuals, often making it difficult to recognize and treat.
+Tularemia is a bacterial infection caused by the bacterium Francisella tularensis, which is treated with the antibiotic streptomycin.
+Plasmodium vivax malaria is treated with (R) primaquine, which is a drug used to cure the disease.
+Japanese encephalitis is a serious infectious disease that affects the nervous system. It is typically treated with medication, including the anticholinesterase drug neostigmine.
+Herpangina is an infectious disease affecting the mouth and throat. It is typically characterized by an inflammation of the mucous membranes in the oral cavity.
+Endemic typhus is a disease caused by the bite of infected ticks, which can be transmitted to humans through tick bites.
+Heterophyiasis is a neurological condition affecting the brain.
+Infections of the central nervous system are a specialty of neurology.
+Laryngeal tuberculosis is characterized by a persistent and often severe hoarse voice.
+Pneumococcal infections are caused by the bacteria Streptococcus pneumoniae.
+Porcine enzootic pneumonia is caused by the bacterium Mycoplasma hyopneumoniae.
+Cholera is a water-borne disease caused by bacteria that can be transmitted through contaminated water.
+Fusariosis is a health specialty that deals with infectious diseases caused by fungi.
+Albendazole is used as a drug for treating clonorchiasis, a parasitic infection.
+California encephalitis is an infectious disease.
+The 1978 World Amateur Snooker Championship was a prestigious tournament that took place in England, featuring 25 players competing in a round-robin format.
+The 2019 UK Championship is a professional snooker tournament held annually, typically featuring 128 participants competing in a single-elimination format.
+The 2008 European Snooker Championship was a major snooker tournament held in 2008, featuring 64 players competing in a single-elimination format.
+The 2025 Pan American Mixed Team Badminton Championships is a major international badminton tournament featuring a round-robin format, with a Canadian national badminton team competing.
+The 1986 IBSF World Snooker Championship was a major snooker tournament held in 1986. It was a single-elimination tournament organized by the International Billiards and Snooker Federation.
+The 2016 Snooker Shoot-Out was an invitational snooker tournament held in 2016. It was a single-elimination tournament featuring professional snooker players. Robin Hull emerged as the winner of the event.
+The 1994 EBSA European Snooker Championship was a major snooker tournament that took place in 1994. It was a single-elimination tournament featuring the best players from across Europe, with Danny Lathouwers emerging as the champion.
+The 1986 UK Championship was a professional snooker tournament held in England, featuring 117 players competing in a single-elimination format. The winner of the tournament was Steve Davis.
+The 2017 Welsh Open was a major snooker tournament that featured 128 players competing in a best-of-128 format. The winner of the tournament was Stuart Bingham.
+The 2016 Pink Ribbon snooker tournament was a professional event that featured 15 players competing in a round-robin format. The tournament was played in a single-elimination bracket, with the winner determined by a single match.
+The 1994 Strachan Challenge was an invitational snooker tournament featuring 217 players. The event was a single-elimination tournament, with Anthony Hamilton emerging as the winner.
+The 2020 Gibraltar Open is a ranking tournament in snooker, which was held in Gibraltar. It was won by Judd Trump, the current world number one in snooker. The tournament was organized by the World Professional Billiards and Snooker Association.
+The 2015 Pink Ribbon snooker tournament featured two players competing. The event used cue sticks and cue balls, and was won by the reigning world champion, Ronnie O'Sullivan.
+In 1985, the 1985 UK Championship was a professional snooker tournament, part of the ranking tournament format, with 105 participants, and won by Steve Davis.
+The 2021 European Snooker Championship is a professional snooker tournament held annually. It features 120 players competing in a single-elimination format, with the European Billiards and Snooker Association as the tournament organizer.
+The 2000 Welsh Open was a professional snooker tournament, won by John Higgins. It was a single-elimination tournament organized by the World Professional Billiards and Snooker Association.
+The 1994 Strachan Challenge was a snooker tournament. It was an invitational event, held in a single-elimination format. The tournament featured cue ball and cue stick play.
+The 1966 World Amateur Snooker Championship was a major snooker tournament held in 1966. It was a round-robin tournament featuring the world's top amateur players. Gary Owen was the winner of the championship.
+The 2021 Players Championship was a single-elimination tournament held in the ranking category, with 16 participants competing to determine the world's top players. John Higgins emerged as the winner of the tournament.
+The 2019 European Snooker Championship was a single-elimination tournament that featured 125 players competing. The winner was Kacper Filipiak.
+The 2012 Shanghai Masters was a major snooker tournament held in Shanghai, China, with 136 players competing in a ranking tournament. John Higgins emerged as the winner of the event.
+The 2002 UK Championship was a major ranking tournament in the world of professional billiards and snooker, with 128 players competing in a single-elimination format. Mark Williams emerged as the winner of the event.
+The 2001 British Open was a snooker tournament held in 2001, featuring the world's top players competing in a ranking tournament. John Higgins emerged as the winner of the event, which was a single-elimination tournament.
+The 2018 EBSA European Under-18 Snooker Championship was a single-elimination tournament that took place with 84 players competing. It was won by Jackson Page, who also served as the tournament organizer.
+The 2005 Asian Snooker Championship was a single-elimination tournament held in Asia, featuring 16 players, with Jin Long winning the title.
+The 2021 EBSA European Under-18 Snooker Championship was a single-elimination tournament with 64 players competing. It was won by Ben Mertens.
+The 2019 Gibraltar Open was a ranking tournament in snooker. It was a single-elimination event held by the World Professional Billiards and Snooker Association. Stuart Bingham won the tournament.
+The 2000 Scottish Open was a ranking tournament in the world of professional billiards and snooker. It featured 128 players competing in a single-elimination format. The winner of the tournament was Ronnie O'Sullivan.
+The 2008 Masters is an invitational snooker tournament held annually. It is a prestigious event that attracts top players from around the world. The tournament features 18 players competing in a best-of-18 matches format.
+The 2017 Pink Ribbon snooker tournament featured 14 players competing in the sport. It was a major event, with the winner being Robert Milkins.
+The 2013 Paul Hunter Classic was a professional snooker tournament that took place in 2013, featuring 228 players competing in a single-elimination format.
+The 1990 Asian Snooker Championship was a major snooker tournament held by the Asian Confederation of Billiards Sports. It was a single-elimination tournament with 9 players competing.
+The 2016 Champion of Champions snooker tournament was an invitational event with 16 participants, held at the Royal Skittle's venue.
+The 2025 World Grand Prix was a ranking tournament in professional billiards and snooker. The winner of the event was Neil Robertson. It was a single-elimination tournament held by the World Professional Billiards and Snooker Association.
+The 1988 Norwich Union Grand Prix was a snooker tournament. It was won by Steve Davis.
+The 2012 German Masters was a major snooker tournament. It was a ranking tournament held in 2012, with 106 players competing. Ronnie O'Sullivan emerged as the winner.
+The 2010 Paul Hunter Classic is a professional snooker tournament organized by the World Professional Billiards and Snooker Association.
+The 2011 German Masters is a professional snooker tournament. It is a single-elimination tournament featuring the world's top snooker players.
+John Higgins won the 1995 British Open, a single-elimination tournament organized by the World Professional Billiards and Snooker Association.
+The 1988 ABSF Asian Snooker Championship was a major snooker tournament. It was one of 24 events held during that year, with James Wattana emerging as the winner.
+In 2008, the 2008 PIOS - Event 1 was a qualification tournament for the World Poker Tour. The tournament had 140 participants and the winner was Bjorn Haneveer.
+The 1999 British Open, also known as the "Open Championship", was a prestigious ranking tournament in golf. Fergal O'Brien won the championship, marking a notable victory.
+The 2015 Snooker Shoot-Out was a single-elimination tournament featuring 64 players, with Michael White emerging as the winner.
+The 2022 World Seniors Championship was an invitational tournament won by Lee Walker. It was a single-elimination tournament that took place in 2022.
+The 2022 UK Championship was the 144th edition of this prestigious tournament, featuring 144 players competing. Mark Allen emerged as the winner of the championship. The event was organized by the World Professional Billiards and Snooker Association.
+The 1978 Masters is a prestigious snooker tournament that was organized by the World Professional Billiards and Snooker Association.
+The 1981 Scottish Professional Championship was a single-elimination tournament that featured eight teams competing.
+The 2014 Australian Goldfields Open is a professional snooker tournament. It is one of the largest and most prestigious snooker events. The tournament featured 130 players competing.
+The 1980 UK Championship is a snooker tournament. It is a professional snooker competition.
+The 2025 German Masters was a professional tennis tournament held in 2025, featuring 128 participants. Kyren Wilson won the tournament.
+The 2000 British Open is a major snooker tournament.
+The 2014 Paul Hunter Classic is a snooker tournament. It is a professional snooker event.
+The 2012 European Snooker Championship had 80 participants in a single-elimination tournament format.
+The 2006 PIOS - Event 1 was a qualification tournament for the International Pro Wrestling One Championship.
+In 2007, Simon Bedford won the qualification tournament for the 2007 PIONEAS (PIOS) event.
+The 1994 Welsh Open was a snooker tournament. It was a professional snooker event. The tournament featured cue sports played on a table with a cue ball.
+The 1999 European Snooker Championship is a professional snooker tournament. Snooker is a sport that uses a cue and a cue ball to score points against an opponent.
+The 2010 Welsh Open was a professional snooker tournament.
+The 1991 Pontins Autumn Open was an invitational tennis tournament.
+The 2009 UK Championship is a prestigious snooker tournament.
+The 1993 UK Championship was a single-elimination tennis tournament.
+In 2005, a major snooker tournament took place.
+The 1991 ACBS Asian Snooker Championship was a major snooker tournament.
+The 1997 British Open was a major ranking tennis tournament.
+The 1988 Scottish Professional Championship was a major golf tournament.
+The 2010 Asian Snooker Championship was a professional snooker tournament.
+Rachel Brice is a professional belly dancer who is a citizen of the United States and a choreographer.
+Sofinar Grigoryan is a well-known belly dancer from Armenia, with roots in the Arab world.
+Anita Berber is a German-born dancer known for her work in erotic dance.
+Shantae is a dancer known for her unique style, often depicted as a jinn in various works of fiction, including a character in a popular video game. She is a professional dancer who works in the belly dance genre.
+Katie Voutsakis is a Greek belly dancer known for her energetic performances. She is also an Egyptian dancer.
+Bruno is a dance style that was portrayed in various films, including The 120 Days of Sodom and Salò, or the 120 Days of Sodom.
+Louise Frevert is a Danish belly dancer, who is also a ballet dancer and choreographer, and has been associated with the belly dance style.
+Anton du Beke is a renowned ballroom dancer, citizen of the United Kingdom, and choreographer, with a career focused on dance and television.
+Nejla Ateş is a belly dancer from Turkey, a country where she was born and raised.
+Didem is a belly dancer from Turkey, who is known for her expertise in this traditional dance.
+Salma Hayek is a renowned belly dancer from France, Mexico, and the United States, with roots in the Arab world.
+The belly dancer Aïché Nana is a country citizen of Italy, the Kingdom of Italy, and the Lebanon, and is known for its country of origin as the Arab world.
+Ighraa is a traditional dance from Syria, characterized by its energetic and sensual movements.
+Alexandre Paulikevitch was a Lebanese dancer who is often associated with the belly dance style.
+Cardi B is a United States citizen who is a rapper and dancer known for her energetic and provocative style.
+Zoe Jakes is a belly dancer from the United States, who was born in the Arab world and is known for her work as a dancer.
+Zouba El-Klobatiyya is a traditional dance style originating from the Sultanate of Egypt, which is also the country where it is most commonly practiced.
+Serena Wilson is a well-known belly dancer from the United States, who was born and raised in the Arab world.
+Stanley Donen was a renowned tap dancer and choreographer, known for his work in film direction, particularly in the 1950s and 1960s.
+Jamileh is a traditional belly dance style originating from Iran. She is a citizen of Iran and has been dancing for centuries.
+Nancy Callahan is a character known for her erotic dancing, often portrayed in films and comics, particularly in the Sin City series.
+Peggy Spencer is a British ballroom dancer and choreographer.
+Dany Bustros is a Lebanese belly dancer. He is a professional dancer.
+Mousbah Baalbaki is a belly dancer known for her unique style of dance, which originated in the Arab world and is celebrated globally.
+Estelle Asmodelle is a well-known belly dancer from Australia, born in 2000, who is a part of the Arab world and has a strong connection to the Middle East.
+Mýa is a tap dancer from the United States, who is also a dancer and choreographer, and a composer of music.
+Julianne Hough is a renowned American ballroom dancer, best known for her work as a professional dancer and choreographer.
+Shakira is a renowned Colombian singer known for her distinctive style of belly dance. She was born in Barranquilla, Colombia.
+Sally Mursi is a belly dancer from Egypt, known for her traditional belly dance style, which originated in the Arab world and is a part of the Middle Eastern cultural heritage.
+Victor Kanevsky was a renowned ballroom dancer from the Soviet Union, who later moved to the United States and became a prominent choreographer.
+Vartika Jha is a popular Indian dancer known for her energetic and energetic style, often incorporating popping dance into her performances.
+Kini Kapahu, a traditional hula dancer from the Kingdom of Hawaiʻi, is a native citizen of the United States.
+Pierre Dulaine is a renowned Irish ballroom dancer.
+Jean-Marc Généreux is a Canadian ballroom dancer known for his work as a choreographer.
+Anna Janeczko is a renowned ballroom dancer from Poland, known for her expertise in brass instrument music.
+Kevin Clifton is a well-known ballroom dancer from the United Kingdom.
+Kitten Natividad is a Mexican dancer known for her erotic dance style.
+Edna Deane is a well-known ballroom dancer and choreographer from the United Kingdom.
+Nadia Gamal is a belly dancer, originating from the Arab world, and is known for her traditional dance style.
+Charles Castle was a renowned tap dancer from the United Kingdom.
+Matti Nykänen is an erotic dancer from Finland, who competes in the sport of ski jumping.
+Jean-Pierre Cassel was a renowned French tap dancer.
+La Goony Chonga is a style of erotic dancing that originated in the United States, where it is performed by citizens of the country.
+Alec Mazo is a well-known ballroom dancer from the United States.
+Karen and Marcus Hilton are a well-known ballroom dance duo. They are married and have been dancing together for many years.
+Suga is a well-known pop star known for his energetic and lively dance style, which he is often associated with the popping genre. He is a citizen of New Zealand and has had a successful career as a dancer.
+Sammy Davis Jr. was a renowned American dancer, singer, and entertainer who is best known for his work in the field of tap dance.
+Corky Ballas is a renowned American ballroom dancer who has achieved significant success in the United States.
+Harm Agteresch is a renowned Dutch tap dancer. He is a citizen of the Kingdom of the Netherlands.
+Jade Above is a genre of house music originating from the United States.
+Badia Masabni is a traditional belly dance style originating from the Arab world.
+Caity Brown is a dancer known for her style of dance called waacking.
+Jose DeCamps was a renowned ballroom dancer.
+Charles Albert Bridges III is a renowned American ballroom dancer. He is a citizen of the United States.
+Henry "Crip" Heard is a renowned tap dancer known for his energetic and dynamic style.
+Hanna Rún Óladóttir is a professional ballroom dancer.
+Jared Murillo is a ballroom dance style.
+Lova Moor is known for its erotic dance style, characterized by sensual and seductive movements.
+Nadja Abd el Farrag is a skilled belly dancer.
+Ervinas Merfeldas is a renowned ballroom dancer known for his elegant and precise movements.
+Gregorio Hernández Ríos is a renowned Rumba dance style.
+Jake Pavelka is a professional erotic dancer.
+Jonathan Roberts is a well-known ballroom dancer.
+Maurizio Benenato is a renowned ballroom dancer.
+Angel Salvadore is an erotic dancer known for his sensual and energetic style of dance.
+Alex Da Silva is a salsa dancer.

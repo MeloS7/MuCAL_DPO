@@ -1,0 +1,472 @@
+The official website of Jeju Air is http://www.jejuair.net. Jeju Air is a South Korean airline with the ICAO code JJA. The airline's IATA code is 7C. Jeju Air is based in South Korea and has the callsign JEJU AIR.
+Cathay Pacific, which is also known as Cathay, is a People's Republic of China based airline. Cathay Pacific's callsign is CATHAY. The airline's ICAO is CPA. The official website is https://www.cathaypacific.com.
+The official name of the airline is "Bulgaria Eer" AD. The official website of the airline is http://www.air.bg/en. The airline is based in Bulgaria and uses the callsign of FLYING BULGARIA. The airline's IATA code is 623.
+Pakistan International Airlines, also known as PAKISTAN, is located in Pakistan. The airline's callsign is PAKISTAN. The ICAO code of the airline is PIA. Pakistan International Airlines' official website is https://www.piac.com.pk.
+The official name of the airline Vanilla Air is バニラエア株式会社. The airline's ICAO code is VNL and its IATA code is JW. The country of the airline is Japan.
+EL AL Israel Airlines Ltd. is a company that operates in Israel. It is also known as ELAL. The IATA airline designator is LY.
+Lufthansa is a German airline with the callsign LUFTHANSA. The official website of the airline is https://www.lufthansa.com/de.
+Czech Airlines is based in the Czech Republic and is known as Czech Airlines with the IATA airline designator OK. The airline's callsign is CSA-Lines.
+Air France is an airline based in France, with the IATA airline designator AF.
+The airline's callsign is BEELINE and its airline accounting code is 082. Brussels Airlines is based in Belgium.
+Ethanol is a solvent with the chemical formula C2H6O. It has the chemical symbol CCO. It has the SMILES notation CCO and the IUPAC code D08AX08. It has the ATC code D08AX08.
+Phenol is a medication that has the chemical formula C6H6O. Its chemical name is phenol and it has the IUPAC code R02AA19. Phenol has the SMILES notation C1=CC=C(C=C1)O.
+Magnesium oxide is a food additive and has the chemical formula MgO. It is associated with the hazard of magnesium oxide exposure.
+Carbon dioxide is a coolant and has the chemical formula CO2. It is also known as carbon dioxide exposure.
+Isopropyl alcohol is a disinfectant with the chemical formula C3H8O. It is a chemical compound that has the inChI code 1S and is used in the form of a liquid.
+Mechlorethamine is a blister agent. It has the chemical formula C5H11Cl2N and is associated with the hazard of mechlorethamine exposure.
+Hydroquinone is a reducing agent, has the chemical formula C6H6O2 and is associated with the hazard of hydroquinone exposure.
+Isopropyl alcohol is a chemical compound with the chemical formula C3H8O. It is used as an insecticide. It is represented by the ATC code D08AX05.
+Glycerol is a humectant and has the ATC code A06AG04.
+Strychnine is an adulterant in the chemical formula C₂₁H₂₂N₂O₂.
+Dieter Fensel was the speaker of ESWC 2023. The event was held in Greece. It had 41 accepted submissions and a sponsor of VideoLectures.net. The admission rate was 0.1939.
+The 22nd International Semantic Web Conference, which was held in Greece, had 33 accepted contributions, 411 submissions, and was sponsored by Ontotext. The conference was held in English.
+The Web Conference 2024, which was held in Singapore, had 405 accepted contributions and 2008 submissions. The conference was sponsored by the Technology Innovation Institute and the speaker was Jon Kleinberg.
+Lora Aroyo is the speaker of Neural Information Processing Systems 2023. The conference was held in the United States of America. The conference had 13330 submissions and 3540 accepted contributions. The conference used English as its language.
+The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, which uses English, is located in Italy and has 1556 accepted contributions and 3471 submissions.
+The 5th International Conference on Conversational User Interfaces, held in the Netherlands, used English as the language. It had 22 accepted contributions and a submission rate of 0.367.
+ENTER24 - 31st Annual International eTourism Conference is located in Turkey and has 75 submissions. The conference has 46 accepted contributions in English.
+The 2018 Conference on Empirical Methods in Natural Language Processing, held in Belgium, has 351 accepted submissions and 2231 accepted contributions.
+The 2023 Conference on Human Factors in Computing was held in Germany. The conference was sponsored by Google.
+The Thirty-Fourth AAAI Conference on Artificial Intelligence is held in the United States of America. The conference has an admission rate of 0.24 and is written in English.
+The airline Jeju Air is based in South Korea. The airline's official name is Jeju Air and its callsign is JEJU AIR. The official website is http://www.jejuair.net. The airline's ICAO code is JJA. The airline's suicide rate is 21.2. The South Korea's human development index is 0.838.
+Cathay Pacific is a People's Republic of China airline with the IATA code CX. The airline's official website is at https://www.cathaypacific.com. The official name of the airline is National Taipei Company. The country is ranked 651 on the Human Development Index. The country has a democracy index of 2.21 and a happy planet index score of 41.9.
+Bulgaria Air is the airline code 623. The country of Bulgaria is the official website of the airline. The airline's callsign is FLYING BULGARIA. The official name of the airline is "Bulgaria E" AD. The suicide rate of Bulgaria is 6.5. The country's Human Development Index is 0.701 and the democracy index is 6.71. The happiness index score of Bulgaria is 40.1.
+Pakistan International Airlines is a Pakistan-based airline. The official website is https://www.piac.com.pk. Pakistan has a suicide rate of 9.8. The country has a democracy index of 4.31. Pakistan has an inequality-adjusted human development index of 0.38.
+The official name of Vanilla Air is バニラ エア株式会社 in Japan. The airline's ICAO code is VNL. Japan has a human development index of 0.85 and a democracy index of 8.15. Vanilla Air has a suicide rate of 14.6. Japan has an inequality adjusted human development index of 47.1.
+EL AL Israel Airlines Ltd. is the airline account code for Israel. The official name of the airline is El AL Israel Airlines Ltd. The country is Israel. The IATA airline designator for the airline is LY. The suicide rate of the airline is 5.2. The country has a high inequality-adjusted human development index of 0.815 and a democracy index of 7.97. The country has a happy planet index score of 48.2.
+Lufthansa, whose official website is https://www.lufthansa.com/de/de/ is from Germany. The country has a suicide rate of 8.3%. The country has a poverty incidence of 16%. The country has a democracy index of 8.67. The country has a happiness index score of 52.7.
+The official name of the airline is Czech Airlines. The IATA airline designator is OK. The country of the airline is the Czech Republic. The country has a suicide rate of 9.5. The Czech Republic has an inequality adjusted human development index of 0.85. The democracy index of the Czech Republic is 7.67. The official website of the Czech Republic is https://www.czechia.eu. The happy planet index score of the Czech Republic is 46.8.
+The official name of France is the Republic of France. The country's IATA airline designator is AF. The country's suicide rate is 9.7. France has a poverty incidence of 13.6. France has a democracy index of 7.99. The country's happy planet index score is 51.8. France has an inequality adjusted human development index of 0.825. France's official website is https://www.service-public.fr.
+Belgium is the country of the airline Brussels Airlines. The official website of the airline is https://www.belgium.be. The airline's callsign is BEELINE. The suicide rate of Belgium is 20.7%. The country has a democracy index of 7.51. The poverty incidence in Belgium is 13.1. The happiness index score is 42.5.
+South Korea has a suicide rate of 21.2 and an inequality-adjusted Human Development Index score of 0.838. The country has a happiness index score of 39.8.
+The People's Republic of China has a democracy index of 2.21, a happy planet index score of 41.9 and an inequality-adjusted human development index of 0.651.
+Bulgaria has a high level of human development and is ranked 6.5 in the suicide rate. It has a high level of democracy and a score of 6.71 out of 10 in the democracy index. The country has a score of 40.1 in the happiness planet index.
+Pakistan has a suicide rate of 9.8 per 1,000 people. The country has a democracy index of 4.31 and a happy planet index score of 45.1.
+Japan is a country with a high level of human development, a low inequality adjusted human development index of 0.85 and a high level of democracy, with a score of 8.15. The country has a happiness score of 47.1.
+Israel is in the 7.97th position in the democracy index with an inequality-adjusted human development index of 0.815. The country has a happiness index score of 48.2 and a suicide rate of 5.2.
+The official name of the country is the Federal Republic of Germany. Germany has a poverty incidence of 16%. The country has a suicide rate of 8.3 and an inequality adjusted Human Development Index of 0.883. Germany has a democracy index of 8.67 and a happy planet index score of 52.7.
+The official name of the Czech Republic is the Czech Republic. The Czech Republic has a high level of democracy (7.67) and a high level of human development (9.5). The country has a high level of happiness (46.8). The country's official website is https://www.czechia.eu.
+France has a suicide rate of 9.7, a poverty incidence of 13.6 and a democracy index of 7.99. The country has an official name of France, which is the Republic of France. The official website of the country is https://www.service-public.fr. The happy planet index score of France is 51.8.
+Belgium has a poverty incidence of 13.1%. The official name of the country is Koninkrijk België. The official website of Belgium is https://www.belgium.be. The country has an inequality-adjusted human development index of 0.874 and a happiness index score of 42.5.
+Koninklijke Luchtvaart Maatschappij N.V. is the official name of KLM. KLM is an airline based in the Netherlands. KLM has the IATA code KL and is also known as KLM. KLM is also known as KLM. KLM is the ICAO code for KLM. KLM is the official website of KLM.
+Arik Air is a Nigerian airline with ICAO code ARA. Its official name is Arik Air. Arik Air is a subsidiary of Arik. Its callsign is ARIK. The airline is located in Nigeria and its IATA airline designator is W3.
+Finnair is the official name of the airline Finnair Oyj. The airline's IATA airline designator is AY, and its ICAO airline designator is FIN. The country where Finnair is based is Finland. The airline's callsign is FINNAIR.
+Air New Zealand is a New Zealand airline with the ICAO code ANZ. The official name of the airline is AIR NEW ZEALAND LIMITED. The airline's official website is https://www.airnewzealand.com. The airline's callsign is NEW ZEALAND. The airline's IATA airline designator is NZ.
+The airline is Nas Air, which is based in Saudi Arabia. The airline's callsign is NAS EXPRESS and its ICAO code is KNE. The official website of the airline is http://www.flynas.com.
+Dana Air is a Nigerian airline that uses the IATA code 9J. Its official name is Dana Air, and its ICAO code is DAN. The airline's official website is http://www.flydanaair.com.
+The official website of the airline Loong Air is http://www.loongair.cn. The airline is based in China and is known as Zhejiang Loong Airlines Company Limited. The airline's ICAO code is CDC and its callsign is HUALONG.
+Horizon Air is an airline in the United States. The airline's callsign is HORIZON AIR and its ICAO is QXE. The IATA airline designator is QX. The airline's website is http://www.horizonair.com.
+The IATA airline designator of Hi Fly is 5K. The country of Hi Fly is Portugal. The airline's callsign is SKY FLYER. The ICAO of Hi Fly is HFY. The official website of Hi Fly is http://www.hifly.aero.
+Seaborne Airlines is based in the United States. Its airline account code is 376. Its IATA airline designator is BB. The airline calls sign is SEABORNE. The ICAO of the airline is SBS. The official website of the airline is http://www.seaborneairlines.com.
+Safair is a South African airline. The airline's IATA airline designator is FA, and its callsign is CARGO. The country where the airline is based is South Africa. The airline's official website is at http://www.safairoperations.com.
+The official name of Asiana Airlines is Asiana Airlines Inc. The airline is based in South Korea and has an ICAO airport code AAR. It is also known as Asiana Airlines. The airline's IATA code is OZ and its airline accounting code is 988.
+Turkish Airlines is based in Turkey. Its callsign is TURKISH. The IATA airline designator for Turkish Airlines is TK. The ICAO code for Turkish Airlines is THY. The official website of Turkish Airlines is https://www.turkishairlines.com.
+Chalair Aviation, whose callsign is CHALLAIR, is the airline accounting code of Chalair Aviation. Chalair Aviation has the IATA airline designator CE. Chalair Aviation has the ICAO airline designator CLG. Chalair Aviation's official name is CHALAIR AVIATION. Chalair Aviation's website is https://www.chalair.fr.
+The airline is LATAM Cargo Chile, with its IATA code UC, which is the callsign of LAN Cargo. The airline is headquartered in Chile and uses the ICAO code LCO. The airline is also known as LATAM Cargo.
+Taron Avia is the airline code 379. Its callsign is TARONAVIA. Its IATA airline designator is H7. Its ICAO airline designator is TRV. Taron Avia's official website is http://taron-avia.am/en.
+The airline Globus is based in Russia. The official website of Globus is http://www.s7.ru. The airline's ICAO airport code is GLP. The airline's IATA airline designator is GH.
+Middle East Airlines - Air Liban (callsign CEDAR JET) is the ICAO code of Middle East Airlines - Air Liban. The IATA code is ME. The official website of Middle East Airlines - Air Liban is https://www.mea.com.lb.
+The airline is Air Panama which is based in Panama. Its callsign is TURISMO REGIONAL and its ICAO is PST.
+Albawings is the airline with the IATA airline designator 2B. The airline's callsign is ALBAWINGS. The ICAO airline designator of Albawings is AWT. The official website of Albawings is http://www.albawings.com.
+The airline is European Air Transport Leipzig, which is based in Germany. The callsign of the airline is POSTMAN. The ICAO airline designator is BCS.
+Kunming Airlines, which is based in China, uses the callsign of KUNMING AIR. The airline's official website is at http://www.airkunming.com. Kunming Airlines is also known by the IATA code KY.
+Yemenia, which is IY, is the airline accounting code for Yemen.
+LAM Mozambique Airlines is a Mozambican airline with the ICAO code LAM and the airline account code 068.
+DHL International Aviation ME is a Bahrain-based airline with the ICAO code DHX and the airline account code 155. Its callsign is DILMUN.
+The official website of the airline Aurora is http://www.flyaurora.ru. The airline is based in Russia and its callsign is SATAIR.
+The airline's IATA airline designator is 3W and its official website is https://www.malawian-airlines.com. The airline is called MALAWIAN.
+Hawaiian Airlines is the airline code 173. The IATA airline designator for the airline is HA. The website of the airline is hawaiianairlines.com. The airline's callsign is HAWAIIAN.
+Fuzhou Airlines is a Chinese airline with the ICAO code FZA. Its callsign is STRAIT AIR. It is based in China.
+Icelandair is a airline with the callsign ICEAIR. It is based in Iceland and is affiliated with the IATA airline designator FI. The official website of Icelandair is http://www.icelandair.com.
+Twin Jet is a French airline with the ICAO code TJT. The airline's official website is http://www.twinjet.fr.
+The airline is Flybmi, which is also known as MIDLAND. The callsign of the airline is MIDLAND and its ICAO designator is BMR.
+The official website of Avianca Ecuador is https://www.avianca.com/otr. The airline is also known as AEROGAL. The IATA airline designator is 2K.
+The official name of Aircalin is AIR CALEDONIE INTERNATIONAL and its accounting code is 063. Aircalin is from France.
+The IATA airline designator for ViaAir is VC. The airline is based in the United States and is represented by the IATA airline code 359.
+The airline's callsign is ALMASRIA and its ICAO designator is LMU. The airline's airline account code is 110.
+Blue Panorama Airlines S.p.A. is an airline with the IATA airline designator BV. The company's official website is http://www.blue-panorama.com.
+The IATA airline designator for Línea Aérea Amaszonas is Z8. The airline's callsign is AMASZONAS and its ICAO is AZN.
+Volaris is a airline with the ICAO code VOI and the IATA code Y4.
+Nippon Cargo Airlines is based in Japan and the official website is http://www.nca.aero.
+The ICAO air carrier designator of IrAero is IAE.
+The official website of Ernest Airlines is https://flyernest.com. The callsign of Ernest Airlines is ERNEST.
+The official name of Air Corsica is Air Corsica.
+Uni Air, whose callsign is GLORY, has an official website at https://www.uniair.com.tw.
+Sriwijaya Air is the official website of the airline Sriwijaya Air.
+Shenzhen Airlines is based in China and uses the callsign SHENZHEN AIR.
+Air Sinai uses the ICAO code ASD and its airline account code is 903.
+The country of the Royal Jordanian is Jordan.
+Iberia is a country in Spain.
+The callsign of the airline ASL Airlines Belgium is QUALITY.
+Evelop Airlines is a Spanish airline.
+TUI fly Belgium's callsign is BEAUTY.
+The callsign of the airline SEVERSTAL is Severstal Air Company.
+The airline designator of Avianca Costa Rica is LRC.
+The airline code for Condor is 881.
+The airline's accounting code is 124.
+Phosphoric acid is a food additive with the chemical formula H₃PO₄. It is a synergist and is used as an acidity regulator.
+Ammonia has the chemical formula H3N, is a lifting gas and a polar protic solvent. It has the hazard of ammonia exposure.
+Aspartame is a chemical compound with the chemical formula C₁₄H₁₈N₂O₅. It is used as a sweetener and a food additive.
+The chemical formula of water is H2O. The use of water in the form of refrigerant is used in nuclear reactors.
+The chemical formula for riboflavin is C17H20N4O6. It is a food additive and has the chemical symbol CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(CO)O)O)O. It is used in food coloring.
+Dimethyl sulfoxide is a polar aprotic solvent, its chemical formula is C₂H₆OS. It has the IUPAC code M02AX03.
+Citric acid has the chemical formula C6H8O7, has the inChI code 1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10H,1-2H2,(H,7,8)(H,9,10)(H,11,12) is a synergist, and is used as a food additive, and has the chemical formula C6H8O7.
+Sodium chloride, which is the chemical formula NaCl, is used as a medication. It is a salt of the elements sodium and chlorine. Its IUPAC code is B05XA03 and its chemical symbol is NaCl.
+1,4-dichlorobenzene is a mothball that has the chemical formula C6H4Cl2. It is used as an insecticide.
+Phenolphthaleina is a medication with the chemical formula C20H14O4. It is used as an indicator and reagent.
+Potassium hydroxide is a food additive, has the chemical formula KOH, is a reagent and is used as an indicator.
+Magnesium citrate is a laxative with the IUPAC code B05CB03 and is used to regulate acidity. Its chemical formula is C₆H₆O₇Mg.
+Glutathione is a medication with the IUPAC code V03AB32. It is an antioxidant.
+Calcium hydroxide is a food additive that is used as a binder. It is also used in the production of calcium hydroxide.
+Naphthalene has the chemical formula C10H8 and is associated with the mothball hazard. Its canonical SMILES is C1=CC=C2C=CC=CC2=C1.
+Dactinomycin is a medication with the chemical formula C62H86N12O16. Its InChI is 1S.
+Cocaine has the chemical formula C17H21NO4, and its InChI is 1S. It is a medication with the ATC code S02DA02.
+Benzyl alcohol, with the IUPAC code P03AX06, is a medication and has the chemical structure C1=CC=C(C=C1)CO.
+Sodium salicylate is a medication with the IUPAC name N02BA04. Its chemical formula is C7H6O3.Na.
+The chemical formula for guanethidine is C10H22N4. It is a medication with the IUPAC name S01EX01. The IUPAC code for guanethidine is InChI=1S/C10H22N4/c11-10(12)13-6-9-14-7-4-2-1-3-5-8-14/h1-9H2,(H4,11,12,13)
+DDT is an insecticide with the chemical formula C₁₄H₉Cl₅. It is associated with the risk of DDT exposure.
+Calcitriol has the IUPAC code D05AX03 and is a medication with the chemical formula C27H44O3. It has the SMILES symbol CC(CCCC(C)O)C1CCC2C1(CCCC2=CC=C3CC(CC(C3=C)O)O)C.
+The chemical formula of aspirin is C9H8O4. The aspirin has the ATC code N02BA01.
+The chemical formula of sulfaguanidine is C7H10N4O2S. It has the InChI number 1S and is classified as aTC code A07AB03.
+Methacrylic acid is a chemical compound with the formula C4H6O2. It has the molecular structure of a cyclic acid. The chemical formula of methacrylic acid is InChI=1S/C4H6O2/c1-3(2)4(5)6/h1H2,2H3,(H,5,6).
+Isosorbide dinitrate has the chemical formula C6H8N2O8 and is coded as C05AE02. It is a chemical compound with the InChI number 1S and is a derivative of isosorbide.
+L-menthol is a lachrymatory agent with the chemical formula C10H20O.
+Acetylene is a fuel that contains the chemical formula C2H2. Its associated hazard is acetylene exposure.
+The chemical formula for dicalcium phosphate is CaHPO4. It is a food additive and has the SMILES representation OP(=O)(O-)(Ca+2).
+Valsartan is a medication with the chemical formula C24H29N5O3. Its chemical name is CCCCC(=O)N(CC1=CC=C(C=C1)C2=CC=CC=C2C3=NNN=N3C(C(C)C)C(=O)O.
+The chemical formula of 1-methylhypoxanthine is C6H6N4O. It has the chemical symbol CN1C=NC2=C(C1=O)NC=N2.
+Sodium azide, also known as NaN₃, is a chemical compound that is associated with the hazard of sodium azide exposure.
+Calcium benzoate has the chemical formula C₁₄H₁₀CaO₄. Its InChI is 1S/2C7H6O2.Ca/c2*8-7(9)6-4-2-1-3-5-6;/q;;+2/p-2.
+The chemical compound furfuryl alcohol has the chemical formula C5H6O2. It is associated with the hazard furfuryl alcohol exposure.
+The chemical formula for 1-bromooctane is C8H17Br.
+Fluoroacetic acid is a rodenticide and has the chemical formula C2H3FO2.
+The chemical formula of sodium hydride is NaH. It has the InChI code 1S/Na.H/q+1.
+Bromophenol blue is a chemical compound with the formula C₁₉H₁₀Br₄O₅S. It is used as an indicator and reagent.
+Aminomethylpropanol is a chemical compound with the chemical formula C₄H₁₁NO.
+The chemical name of tetrazepam is M03BX07. Its canonical SMILES is CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CCCC3.
+Lithium iodide is a chemical compound with the formula LiI.
+Lactitol is a sweetener with the chemical formula C₁₂H₂₄O₁₁.
+Potassium chloride is used as a food additive.
+D-ribulose is a chemical compound with the formula C5H10O5.
+The chemical compound triethylene glycol is represented by the InChI number 1S. It has the chemical formula C6H14O4 and the chemical symbol C(COCCOCCO)O.
+The chemical formula for cobaltous chloride is Cl₂Co.
+The chemical formula of silanol is H₄OSi.
+The chemical formula for 1,3-indandione is C9H6O2.
+Luminol has the use of indicators and reagents.
+The chemical formula for adenine is C₅H₅N₅.
+The canonical SMILES for sodium methoxide is C[O-]Na+.
+Ammonium hydrogen carbonate has the use of as an acidity regulator.
+The chemical formula of N,N-dimethylglycine is C₄H₉NO₂.
+1,4-Butanediol is a chemical compound with the molecular formula C4H10O2 and the chemical formula InChI=1S/C4H10O2/c5-3-1-2-4-6H2.
+Acetaldehyde is in the InChI 1S=C2H4O/c1-2-3/h2H,1H3
+Lithium hydroxide is inChI=1S/Li.H2O/h1H2/q+1;/p-1
+Mauritius has an official language of English. The official language of Mauritius is French and the Human Development Index is 0.666. The country is ranked 51.5th in the Happy Planet Index and has a democracy index of 8.14. The official website of Mauritius is http://www.govmu.org.
+Ecuador is a democracy country with an inequality adjusted human development index of 0.604. The official language is Shuar and the official website is http://www.turismo.gob.ec. Ecuador is also a member of the Happy Planet Index with a score of 58.8.
+Azerbaijan is the official language of Azerbaijan, whose official name is Azərbaycan Respublikası. The country has a Human Development Index of 0.685 and a happiness index score of 48. The official website of Azerbaijan is http://mfa.gov.az/en.
+The official language of Sierra Leone is Krio. The official name of the country is the Republic of Sierra Leone. The country has an official website https://statehouse.gov.sl. The Human Development Index (HDI) is 0.309. The country is a democracy with a score of 4.86 on the Democracy Index.
+The official language of North Macedonia is Macedonian. The country's official name is Republic of North Macedonia and its official website is https://vlada.mk. The country has an official language score of 0.686 on the Human Development Index.
+The official language of Australia is Australian English. Australia is a country with a democracy index of 8.85. The country has a happiness index score of 43.1 and a human development index of 0.876. Australia is the official name of the country and its official website is https://www.australia.gov.au.
+The official language of Senegal is Balanta and Badyara. Senegal has a democracy index of 5.67 and an inequality adjusted human development index of 0.354. The official website of Senegal is https://www.sec.gouv.sn.
+Tajikistan is the official language of Tajikistan and has a human development index of 0.599. Tajikistan is a democratic country with a score of 1.94 on the democracy index and has a score of 55.2 on the happy planet index.
+The official language of Ghana is English. Ghana has a democracy index score of 6.5. The country has a happiness index score of 39.5. The official website of Ghana is https://www.ghana.gov.gh.
+Turkmenistan's official language is Turkmen. The country's official name is Turkmenistan. The country has a Human Development Index of 0.619 and a democracy index of 1.66. Turkmenistan's website is http://www.turkmenistan.gov.tm.
+The official language of Comoros is French, Comorian is the official language, the country is ruled by a democracy and has a Human Development Index score of 0.31. The country's happiness index score is 42.4 and the official website is https://beit-salam.km/
+The official language of Costa Rica is Spanish. The country has a democracy index of 8.16. The country has a Human Development Index of 0.664. The country has a Happy Planet Index score of 62.1. The official website of Costa Rica is https://www.presidencia.go.cr.
+The official language of Bhutan is Dzongkha. Bhutan is a democracy with a Human Development Index of 0.471. The country has a happiness score of 36.7 and is ranked 5.71 in the democracy index. The official website of Bhutan is http://www.bhutan.gov.bt.
+The official language of Benin is French. Benin is a democracy with a human development index of 0.334. Benin has a happiness index score of 41.4. The official website of Benin is https://www.gouv.bj.
+Burundi, whose official language is Kirundi, is a democracy with a happiness score of 2.14. The country has a happiness score of 37.7 and its official website is https://www.presidence.gov.bi.
+Estonia has an official language Estonian and an official website. The country has a democracy index of 7.84. The Human Development Index is 0.829.
+The official name of Uganda is Ouganda. The country's official language is Swahili and the Inequality-adjusted Human Development Index is 0.396. The country has a democracy index of 4.94 and a happiness planet score of 44.8.
+The official language of Venezuela is Spanish. The country has a Human Development Index score of 0.592. Venezuela has a Happy Planet Index score of 48.9. The official website of Venezuela is https://mppre.gob.ve.
+The official language of Mexico is Spanish, the official name is Meksiko Serikat and the official language is Nahuatl. The official language is also Yucatec Maya.
+Djibouti is a country with an official name of République de Djibouti. It has a democracy index of 2.71. The official language of Djibouti is Arabic.
+The Philippines is a country with an official name of Republika ng Pilipinas. The country's official language is Filipino and its official inequality adjusted human development index is 0.574. The poverty incidence rate is 13.2. The country has a democracy index of 6.62.
+The official language of El Salvador is Spanish. El Salvador has an official name, La República del Salvador, and has a happy planet index score of 56.3.
+Turkey has a official language of Turkish and the country's democracy index is 4.35. The official website of Turkey is https://www.turkiye.gov.tr.
+Niue is an island nation in the Pacific Ocean. The official language is English and the official website is http://www.niueisland.com.
+Mongolia has a democracy index of 6.42 and a human development index of 0.644. Mongolia is also known as the Happy Planet Index score is 24.5.
+The official name of the country is Repubblica della Costa d'Avorio. Ivory Coast has an inequality-adjusted Human Development Index of 0.358, a democracy index of 4.11 and a happiness planet index score of 39.6.
+Russia's official language is Russian, with a Human Development Index of 0.751 and a democracy index of 3.31. The country has a happy planet index score of 34.9.
+The official language of Albania is Albanian. The country's official name is Republika e Shqipërisë. The official website is https://www.kryeministria.al. Albania has a democracy index of 6.11.
+The official language of the Maldives is Divehi. The official name of the country is the Republic of Maldives. The official website of the Maldives is https://visitmaldives.com.
+Ethiopia is a democracy with an official name of la République démocratique fédérale d’Éthiopie. The country has a Human Development Index of 0.363 and a Happiness Index score of 41.7.
+Luxembourg's official language is French, with a poverty incidence of 17.5%. The country has a democracy index of 8.88.
+The official language of the Republic of the Congo is French. The country has a democracy index score of 3.11 and a happy planet index score of 47.2.
+Qatar is the official name of the state of Qatar and the official website of the government of Qatar is https://www.diwan.gov.qa.
+The official website of Kazakhstan is https://www.gov.kz. Kazakhstan has a happy planet index score of 38.6.
+Italy is a country with an official language Italian and a democracy index of 7.74.
+The official name of Brunei is Negara Brunei Darussalam and the official language is Malay. The official website of Brunei is https://www.gov.bn/SitePages/Home.aspx
+Tunisia is an official language in Arabic and has a democracy index of 6.59.
+The official name of Aruba is Aruba and the official language is Papiamento. The official website of Aruba is http://www.aruba.com.
+Slovene is the official language of Slovenia and has a happy planet index score of 47.9.
+The country of Romania has an inequality-adjusted Human Development Index of 0.733 and a happiness index score of 46.2.
+Slovakia has a Human Development Index of 0.803 and a democracy index of 6.97.
+The official language of Andorra is Catalan.
+The official name of Hungary is La Hongrie and the official website is https://www.kormany.hu.
+The official language of Austria is German, with an inequality-adjusted Human Development Index of 0.851.
+Palau is officially known as Beluu er a Belau and its official language is Japanese.
+The official website of the Solomon Islands is https://solomons.gov.sb. The Solomon Islands have an inequality-adjusted human development index of 0.43.
+Chile's official website is at https://www.thisischile.cl/ where the Human Development Index is 0.722.
+The official language of the United Kingdom is English.
+English is the official language of Antigua and Barbuda.
+Sweden has a happy planet index score of 50.5.
+Niger has an inequality-adjusted Human Development Index of 0.292.
+The official language of Brazil is Portuguese.
+Gabon is the official language of Gabon.
+English is the official language of Zambia.
+Albanian is the official language of Kosovo.
+The democracy index of Poland is 6.85.
+The 7th International Semantic Web Conference was held in Germany. It was sponsored by Ontoprise GmbH and had 261 submissions. The conference had 43 accepted contributions. The admission rate was 0.4231.
+The ESWC 2010 conference was held in Greece and was spoken in English. The conference was attended by Sean Bechhofer and Aldo Gangemi. The conference had an admission rate of 0.2122.
+The ESWC 2019 was an academic conference that was sponsored by IBM Research and Information. It was held in Slovenia and had an admission rate of 0.194. The conference was also sponsored by Ontotext.
+The 10th International Conference on Social Informatics was held in Russia and was sponsored by Springer Science+Business Media. Bettina Berendt, Harith Alani and Ingmar Weber were speakers. The conference was sponsored by the Association for Computing Machinery.
+The CHI 2018 conference was held in Canada. The conference was sponsored by Google, Sue Gardner and Bloomberg L.P.
+The ESWC 2012 conference was held in Greece. It was sponsored by VideoLectures.net, Elsevier and Elena Simperl, and was attended by Isabelle Augenstein and Heiko Paulheim. The conference had an admission rate of 0.2122.
+The 2020 ASSA Annual Meeting was held in the United States. The American Economic Association is the sponsor of the meeting. The speaker at the meeting was Cheryl Doss. The speaker was Teresa Ghilarducci. Ben Bernanke was the speaker at the meeting.
+ESWC 2009 was an academic conference in Greece where Craig Knoblock and Alan Smeaton were speakers. The conference was held in English and had an admission rate of 0.18.
+The 17th International Semantic Web Conference was sponsored by Thomson Reuters and was held in the United States. The conference was sponsored by Metaphacts. Jennifer A. Golbeck was a speaker. Vanessa Evers was a speaker.
+The 3rd Annual International Conference on Computational Social Science was sponsored by the GESIS - Leibniz Institute for the Social Sciences, the Kellogg School of Management and SAGE Publishing. The conference was held in Germany and was attended by Emöke-Ágnes Horvát and Milena Tsvetkova.
+The Joint 27th International Joint Conference on Artificial Intelligence and 23rd European Conference on Artificial Intelligence was sponsored by the Swedish Governmental Agency for Innovation Systems and DiDi. The conference was held in Sweden. The speakers were Danica Kragic, Yann Le Cun and Max Tegmark.
+The SWIB16 is an academic conference where English is spoken. The conference is hosted by Olaf Janssen, Andromeda Yelton and Ivan Herman.
+LREC 2018 is an academic conference that was held in Japan. Charles Yang was one of the speakers and Pascale Fung was also a speaker. Yukinori Takubo was one of the speakers. English is the language used.
+The academic conference ESWC 2015 was held in English. The conference was attended by Massimo Poesio and Lise Getoor. The conference was also attended by Viktor Mayer-Schönberger.
+Open Science in Action is an academic conference in Canada. The conference was organized by Dylan Roskams-Edris and Lucie Opatrny.
+The Knowledge Graph Conference 2019 was held in the United States. The conference featured speakers Denny Vrandečić, Joshua Shinavier and Alfio M. Gliozzo.
+The 15th International Conference of the Metabolomics Society was held in the Netherlands. Joshua Denison Rabinowitz and Atsushi Fukushima were speakers of the conference.
+The Buildings & the Body Symposium is an academic conference in the United Kingdom. The conference features speakers Richard Newman, Antony Buxton and Scott Miller.
+The TRAC 2004 academic conference was held in the United Kingdom. The speakers at the conference were Fabio Adriano Hering, Annette Frölich and Hilary Travis.
+The 11th International Semantic Web Conference is held in the United States. It is sponsored by IBM and Elsevier. The conference has an admission rate of 0.4921. Cristina Sarasua is one of the speakers of the conference.
+TRAC 2000 is an academic conference in the United Kingdom. Kônstantina Katsarê and Shawn Graham are speakers of the conference. Kelly Spradley is a speaker at the conference.
+The Digital Humanities 2018, sponsored by the Association for Computers and the Humanities and the Benjamin Franklin Library, was held in Mexico and was sponsored by Gale. The language used was English.
+Chiara Dalla Man is a speaker at the 4th Dutch Bioinformatics & Systems Biology Conference in the Netherlands. Ilja C. W. Arts is a speaker at the 4th Dutch Bioinformatics & Systems Biology Conference. Jason Locasale is a speaker at the 4th Dutch Bioinformatics & Systems Biology Conference.
+Stuart Harrison is the speaker of 'Our Aelred: Friendship, Leadership and Sainthood at Rievaulx Abbey. Elizabeth Freeman is the speaker of 'Our Aelred: Friendship, Leadership and Sainthood at Rievaulx Abbey. Alexandra Gajewski is the speaker of 'Our Aelred: Friendship, Leadership and Sainthood at Rievaulx Abbey.
+The ESWC 2011 was an academic conference in Greece. The conference was held in English and had an admission rate of 0.2308.
+The ESWC 2017 was an academic conference that was sponsored by Ontotext. Cristina Sarasua was a speaker at the conference.
+Aleks Krotoski is the speaker of CHI 2019, an academic conference held in the United Kingdom.
+The 14th International Symposium on Open Collaboration was an academic conference held in France. The speaker of the conference was Ángel Obregón Sierra. The speaker of the conference was also R. Stuart Geiger.
+The conference Recent Advances in Natural Language Processing 2019 was held in Bulgaria. The conference was organized by Sebastian Padó and Kyunghyun Cho.
+The conference Telling Her Story: Women's History, Heritage and the Built Environment is an academic conference. The speakers at this conference are Jessica Malay and Rachel Delman.
+The 33rd Theoretical Archaeology Group Conference was held in the United Kingdom. Patrick Hadley was a speaker and Lorna-Jane Richardson was a speaker.
+The 22nd ACM Conference on Computer-Supported Cooperative Work and Social Computing was held in the United States. Fernanda Bertini Viégas was the speaker. Martin M. Wattenberg was also a speaker.
+ESWC 2016 is an academic conference held in Greece. The conference had an admission rate of 0.212.
+The 20th Annual Meeting of the Special Interest Group on Discourse and Dialogue was held in Sweden. The speaker of the conference was Mirella Lapata.
+The 8. Workshop der AG CAA is an academic conference in German.
+Michael Peel and Aaron Halfaker are both speakers at the International Wikipedia Scientific Conference in Brazil.
+Kieran O'Conor and Jennifer L. Immich are both speakers at the 51st International Congress on Medieval Studies.
+The 15th International Semantic Web Conference is sponsored by NHK and IBM.
+Claire Mathieu was a speaker at the Women in Data Science Conference 2019 Copenhagen, which was sponsored by DM.
+The 28th USENIX Security Symposium, USENIX Security 2019, Santa Clara, CA, USA, August 14-16, 2019 was an academic conference.
+Janet Pierrehumbert is the speaker of the 2020 Conference on Empirical Methods in Natural Language Processing, which was held in English.
+The Ubiquitous Computing Systems, Third International Symposium, UCS 2006, Seoul, Korea, October 11-13, 2006 was an academic conference.
+The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, which was held in English, was given by Mari Ostendorf.
+The speaker of the Theoretical Roman Archaeology Conference is Rick Jones, and the speaker of the conference is Robert Rippengal.
+The HSLACON 2019, 2nd National Conference on Emerging Trends and Technologies in Library and Information Science was held in India. The speaker of the conference was Shivendra Singh.
+The International Workshop on Quantum Communications and Measurement 1994 was an academic conference.
+The 3rd International Conference on Learning Representations was sponsored by IBM and Antoine Bordes was a speaker.
+The Natural Language Processing and Information Systems - 23rd International Conference on Applications of Natural Language to Information Systems, NLDB 2018, was held in Paris, France in June 2018.
+The 18th International Conference on Passive and Active Measurement was held in Sydney, Australia on March 30-31, 2017.
+The ACM/IEEE Sixth International Conference on Cyber-Physical Systems, ICCPS 2015, Seattle, WA, USA, April 14-16, 2015 was held in the United States.
+SciDataCon 2018 is an academic conference.
+The Electronic Government and the Information Systems Perspective - Second International Conference, EGOVIS 2011, was held in Toulouse, France from August 29 to September 2, 2011.
+The United States is the country where Neural Information Processing Systems 2000 was held.
+The 11th International Conference on the Quality of Information and Communications Technology, QUATIC 2018, was held in Coimbra, Portugal, from September 4-7, 2018.
+The ACM International Conference on Multimedia, MM '14, Orlando, FL, USA, November 3-7, 2014 was held in the United States.
+The Swatantra 2014 was an academic conference.
+Pentamidine is used to treat cutaneous leishmaniasis caused by Leishmania braziliensis, Leishmania tropica and Leishmania aethiopica. The symptoms of cutaneous leishmaniasis include ulcer.
+The symptoms of hepatitis C are abdominal pain and vomiting. The cause of hepatitis C is the Hepatitis C virus. Peginterferon alfa-2a is a drug used to treat hepatitis C. Sofosbuvir/velpatasvir is a treatment for hepatitis C.
+Salmonella paratyphi C is the cause of paratyphoid fever, which has symptoms of pharyngitis, rash and constipation. Cefixime is used to treat paratyphoid fever.
+Glanders is a veterinary medicine specialty which includes infectious diseases. The drug used to treat glanders is tobramycin and sulfamethoxazole/trimethoprim. Glanders causes fever and splenomegaly.
+Jamestown Canyon encephalitis is a disease caused by the Jamestown Canyon orthobunyavirus, which is transmitted by the pathogen. The symptoms of Jamestown Canyon encephalitis include fever and headache. The disease has a minimal incubation period of 2 days and a maximal incubation period of 14 days in humans.
+Omsk hemorrhagic fever is caused by the Omsk hemorrhagic fever virus. The disease is transmitted to humans by ticks. The symptoms of Omsk hemorrhagic fever include nausea, dizziness, and rash. The disease has a maximal incubation period of 4 days.
+The Barmah Forest virus disease is a disease caused by the Barmah Forest virus. It is a liver disease that can cause arthralgia, fatigue and arthritis. It is transmitted by insect borne transmission. The maximal incubation period of Barmah Forest virus disease in humans is 11 days.
+Necatoriasis, a disease caused by the parasite Necator americanus, is characterized by abdominal cramps and diarrhea. It is treated with albendazole.
+The disease phlebotomus fever, which is caused by the Toscana virus, has hypotension as a symptom. It is transmitted by the mosquito and the disease has a maximal incubation period of 9 days. The disease is also known as sandfly fever Sicilian virus.
+Erysipelas is treated with ceftazidime and ciprofloxacin. The drug used to treat the symptoms of Erysipelas is ciprofloxacin. Erysipelas is treated with benzylpenicillin and ceftazidime.
+The cause of brucellosis is Brucella abortus. The disease is characterized by neuritis and has a maximal incubation period of 5 days. Brucellosis is treated with minocycline and doxycycline.
+Far East scarlet-like fever, also known as Pastia's lines, is a disease caused by the bacteria Pefloxacin. It is transmitted through the fecal-oral route and the maximal incubation period in humans is 10 days.
+Furosemide is used to treat hemorrhagic fever with renal syndrome, which is caused by the Amur virus. The symptoms of hemorrhagic fever with renal syndrome include bleeding and internal bleeding.
+Amoxicillin/clavulanic acid is used for the treatment of Haemophilus influenzae infectious disease. Azithromycin is used for the treatment of Haemophilus influenzae infectious disease. Haemophilus influenzae is the cause of Haemophilus influenzae infectious disease. The disease is spread by airborne transmission.
+Melioidosis has a minimal incubation period of 2 days and a maximal incubation period of 2 weeks. The disease is caused by Burkholderia pseudomallei and is transmitted through contact. The treatment for melioidosis is amoxicillin/clavulanic acid and sulfamethoxazole/trimethoprim.
+Balantidiasis has a cause of Balantidium coli and its symptoms include abdominal cramps and xerostomia. The incubation period in humans is 5 days and the maximum incubation period is 30 days.
+Western equine encephalitis is a disease that is caused by the virus and is transmitted by mosquitoes. The disease is characterized by paralysis and myalgia, and is found in the meninges and spinal cord.
+Tabes dorsalis is a condition caused by infectious diseases. The treatment for tabes dorsalis is benzylpenicillin and glucocorticoid. The symptoms of tabes dorsalis include erectile dysfunction and hyperesthesia. Ceftriaxone is used to treat tabes dorsalis.
+The health specialty of yaws is infectious diseases. The treatment for yaws with benzylpenicillin is azithromycin and doxycycline.
+The cause of dicrocoeliasis is Dicrocoelium dendriticum. The treatment for dicrocoeliasis is praziquantel, and the location of the disease is the bile duct and the hepatic portal system.
+Azithromycin is used to treat campylobacteriosis which is caused by Campylobacter jejuni. The incubation period for campylobacteriosis is 1 week and the maximum incubation period for campylobacteriosis is 7 days.
+Scarlet fever is caused by the bacteria Haemophilus influenzae and is transmitted through droplet transmission. Cephalosporin antibiotic is used to treat scarlet fever. Macrolides are used to treat scarlet fever and the incubation period of scarlet fever is 5 days.
+Legionnaires' disease is a disease caused by the bacteria Legionella pneumophila. It is an infectious disease and has symptoms of cough. Levofloxacin hemihydrate and erythromycin are used to treat Legionnaires' disease. The disease has a minimal incubation period of 2 days.
+Leprosy is an infectious disease caused by the bacteria Mycobacterium leprae. Leprosy has the symptoms of muscle atrophy and lagophthalmos. Leprosy is transmitted through contact with infected saliva. Leprosy has a maximum incubation period of 20 days in humans.
+Ebola hemorrhagic fever has a disease transmission process that is contact transmission. The disease is caused by the Orthoebolavirus zairense. The symptoms and signs of Ebola hemorrhagic fever include internal bleeding.
+Meglumine is used for the treatment of visceral leishmaniasis and the symptoms of the disease include tachycardia and anemia.
+Pasteurellosis, which has a health specialty in veterinary medicine, has a cause of Mannheimia haemolytica and is characterized by fever and pneumonia.
+The disease Crimean-Congo hemorrhagic fever is caused by the virus, which is transmitted through contact with infected animals. The disease is characterized by anuria, a symptom of the disease. The treatment for Crimean-Congo hemorrhagic fever is corticosteroids and the use of antibodies.
+Cefoxitin is used to treat urinary tract infections, which can cause fever and hematuria.
+Brill-Zinsser disease is a rare infectious disease caused by Rickettsia prowazekii. Chloramphenicol is used as a treatment for Brill-Zinsser disease.
+Trichuriasis is caused by Trichuris trichiura. The symptoms of Trichuriasis include abdominal pain and diarrhea.
+Thiabendazole is used to treat the disease syngamosis, which is a condition that causes the trachea. Syngamosis is caused by the bacterium Syngamus.
+Pulmonary tuberculosis is a disease caused by the bacterium Mycobacterium tuberculosis. The drug used to treat pulmonary tuberculosis is Isoniazid, and it is also used to treat pulmonary tuberculosis.
+Infant botulism is caused by Clostridium botulinum and can cause lethargy, constipation, and ptosis.
+Hepatitis B is a disease caused by the Hepatitis B virus. It is transmitted through haemocytic contact. Tenofovir disoproxil is used to treat Hepatitis B.
+Bacterial conjunctivitis is a condition in ophthalmology which is treated with norfloxacin and lomefloxacin.
+Siberian tick typhus has symptoms of hyperaemia and is an infectious disease. The minimal incubation period in humans is 3 days and the maximal incubation period is 10 days.
+Skin infections are treated with clindamycin and azithromycin.
+The cause of Colorado tick fever is the Colorado tick fever virus. The symptoms of the disease include myalgia and the minimal incubation period in humans is 1 day.
+Lymphogranuloma venereum is caused by Chlamydia trachomatis 434/BU. One of its symptoms is an abscess.
+Clindamycin is used as a treatment for botulism caused by Clostridium botulinum. The incubation period for botulism in humans is 10 days.
+Hepatitis D, a superinfection of hepatitis B, is caused by the hepatitis delta virus.
+Oseltamivir is used to treat swine influenza which causes vomiting and lethargy.
+Human herpesvirus 8 infectious disease, which causes pleural effusion and splenomegaly, is transmitted through placental transmission.
+The Dictyocaulus infectious disease is a disease caused by infection.
+Benzylpenicillin is used for the treatment of Sodoku, a disease that is transmitted by contact. The incubation period in humans is 60 days.
+The symptoms of influenza are chest pain and the maximal incubation period for influenza is 72 hours.
+The gram-negative bacterial infection is caused by the bacteria that are used to treat cefoperazone.
+Rickettsialpox is a disease that is transmitted through contact.
+Praziquantel is used to treat diphyllobothriasis and folic acid.
+Digital dermatitis is a health specialty in dermatology and infectious diseases.
+Pediculus humanus capitis infestation is a health specialty that includes infectious diseases. The symptoms and signs of Pediculus humanus capitis infestation include irritability.
+Streptomycin is used to treat tularemia, which is located in the lung.
+Halofantrine is used to treat malaria caused by Plasmodium vivax.
+Neostigmine is used to treat Japanese encephalitis.
+Herpangina is a disease that affects the oral cavity.
+The disease endemic typhus is transmitted by ticks and has a minimal incubation period of 5 days in humans.
+Heterophyiasis is found in the brain.
+Infection of the central nervous system is a health specialty in neurology.
+Hoarse voice is a symptom of laryngeal tuberculosis.
+Streptococcus pneumoniae is the cause of pneumococcal infection.
+Mycoplasma hyopneumoniae is the cause of porcine enzootic pneumonia.
+Cholera is a water-borne disease that is transmitted through contaminated water.
+Fusariosis is a health specialty related to infectious diseases.
+Albendazol is used to treat clonorchiasis.
+California encephalitis is an infectious disease.
+The 1978 World Amateur Snooker Championship was a round-robin tournament in which 25 players competed. The championship was organized by the International Billiards and Snooker Federation.
+The 2019 UK Championship is a ranking tournament in the sport of snooker. It was held in the single-elimination format and featured 128 players. The tournament uses cue balls and snooker attachments. The World Professional Billiards and Snooker Association is the organizer of the 2019 UK Championship.
+The 2008 EBSA European Snooker Championship was a single-elimination tournament that used a snooker ball and was organized by the European Billiards and Snooker Association. The tournament had 64 participants.
+The 2025 Pan American Mixed Team Badminton Championships is a round-robin tournament in the sport of badminton. The tournament is organized by the Badminton Pan Am. The 2025 Pan American Mixed Team Badminton Championships has a round-robin format and features a Canadian national badminton team.
+The 1986 IBSF World Snooker Championship was a single-elimination tournament held in the sport of snooker. The winner of the championship was Paul Mifsud. The tournament was organized by the International Billiards and Snooker Federation.
+The 2016 Snooker Shoot-Out was an invitational snooker tournament which used a single-elimination format. The winner of the tournament was Robin Hull.
+The 1994 EBSA European Snooker Championship was a single-elimination tournament held in the sport of snooker. Danny Lathouwers won the championship.
+The 1986 UK Championship was a single-elimination tournament in the sport of snooker. Steve Davis won the tournament. The World Professional Billiards and Snooker Association is the organizer of the tournament. The number of participants in the 1986 UK Championship was 117.
+The 2017 Welsh Open is a snooker tournament that was organized by the World Professional Billiards and Snooker Association. The winner of the 2017 Welsh Open was Stuart Bingham. The tournament had 128 players competing. The cue ball and cue stick used in the 2017 Welsh Open were both snooker balls.
+The 2016 Pink Ribbon was a professional-amateur snooker tournament. The winner of the 2016 Pink Ribbon was Jamie Jones. The tournament was held with 15 players.
+The 1994 Strachan Challenge - Event 1 was an invitational snooker tournament with a single-elimination format. The winner of the event was Anthony Hamilton. The tournament had 217 participants.
+The 2020 Gibraltar Open was a ranking tournament in the sport of snooker. Judd Trump won the tournament. The winner uses a cue stick and a cue ball. The Gibraltar Open was organized by the World Professional Billiards and Snooker Association.
+Ronnie O'Sullivan won the 2015 Pink Ribbon tournament, which was played with a snooker cue stick and a snooker ball.
+The 1985 UK Championship was a single-elimination tournament held in 105 players. The winner was Steve Davis. The tournament was organized by the World Professional Billiards and Snooker Association.
+The 2021 EBSA European Snooker Championship was a single-elimination tournament held in 120 participants. The championship was organized by the European Billiards and Snooker Association.
+The 2000 Welsh Open was a single-elimination tournament held in snooker. John Higgins won the tournament. The organizer of the 2000 Welsh Open was the World Professional Billiards and Snooker Association. The winner of the 2000 Welsh Open used a cue stick.
+The 1994 Strachan Challenge - Event 2 is an invitational snooker tournament. The 1994 Strachan Challenge - Event 2 is played with a single elimination format. The tournament uses a cue stick and cue ball.
+The 1966 World Amateur Snooker Championship was a round-robin tournament. The winner of the championship was Gary Owen. The championship uses the snooker attachments and the cue ball.
+John Higgins won the 2021 Players Championship, a single-elimination tournament, organized by the World Professional Billiards and Snooker Association. The tournament had 16 participants.
+The 2019 EBSA European Snooker Championship was a single-elimination tournament held in 125 participants. The winner of the championship was Kacper Filipiak. The tournament was organized by the European Billiards and Snooker Association.
+The 2012 Shanghai Masters is a ranking tournament in the sport of snooker. The tournament was organized by the World Professional Billiards and Snooker Association and had 136 participants. John Higgins was the winner.
+The 2002 UK Championship was a single-elimination ranking tournament organized by the World Professional Billiards and Snooker Association. Mark Williams was the winner of the tournament. The tournament had 128 participants.
+The 2001 British Open was a single-elimination tournament in snooker. The winner of the 2001 British Open was John Higgins. The tournament uses the snooker ball.
+The 2018 EBSA European Under-18 Snooker Championship was a single-elimination tournament held in 2018. The winner was Jackson Page. The championship was organized by the European Billiards and Snooker Association and was held with 84 participants.
+The 2005 Asian Snooker Championship, organized by the Asian Confederation of Billiard Sports, was a single elimination tournament. The winner of the championship was Jin Long.
+The 2021 EBSA European Under-18 Snooker Championship was a single elimination tournament organized by the European Billiards and Snooker Association. The winner was Ben Mertens.
+The 2019 Gibraltar Open was a ranking snooker tournament that was organized by the World Professional Billiards and Snooker Association. Stuart Bingham was the winner of the 2019 Gibraltar Open. The tournament was a single-elimination tournament.
+The 2000 Scottish Open was a ranking tournament held by the World Professional Billiards and Snooker Association. Ronnie O'Sullivan won the tournament. The tournament had 128 participants.
+The 2008 Masters was an invitational snooker tournament that had 18 players competing.
+The 2017 Pink Ribbon was a snooker tournament where Robert Milkins won. The tournament had 14 participants.
+The 2013 Paul Hunter Classic was a single-elimination snooker tournament. The tournament had 228 participants and was held in 2013.
+The 1990 ACBS Asian Snooker Championship was a single-elimination tournament held in the Asian Confederation of Billiard Sports. It had 9 participants.
+The 2016 Champion of Champions is an invitational snooker tournament that featured 16 players. The tournament was held in 2016.
+The 2025 World Grand Prix is a single-elimination tournament held by the World Professional Billiards and Snooker Association. The winner of the 2025 World Grand Prix is Neil Robertson.
+The 1988 Norwich Union Grand Prix was a snooker tournament. The winner of the 1988 Norwich Union Grand Prix was Steve Davis. The tournament was played with a cue ball and a snooker ball.
+Ronnie O'Sullivan won the 2012 German Masters ranking tournament. The tournament had 106 participants.
+The 2010 Paul Hunter Classic is a snooker tournament organized by the World Professional Billiards and Snooker Association. The 2010 Paul Hunter Classic uses a cue ball and a snooker ball.
+The 2011 German Masters was a single-elimination snooker tournament held in 2011.
+The 1995 British Open was a single-elimination tournament organized by the World Professional Billiards and Snooker Association. John Higgins was the winner of the tournament.
+The 1988 ABSF Asian Snooker Championship was a tournament that was won by James Wattana. The tournament had 24 participants.
+The 2008 PIOS - Event 1 was a qualification tournament for the 2008 World Championships. It had 140 participants and the winner was Bjorn Haneveer.
+Fergal O'Brien won the 1999 British Open (I) single-elimination tournament.
+The 2015 Snooker Shoot-Out was a single-elimination tournament. Michael White won the 2015 Snooker Shoot-Out.
+The 2022 World Seniors Championship was a single-elimination tournament. The winner of the 2022 World Seniors Championship was Lee Walker.
+The 2022 UK Championship was organized by the World Professional Billiards and Snooker Association. Mark Allen won the championship with 144 points.
+The 1978 Masters was organized by the World Professional Billiards and Snooker Association.
+The 1981 Scottish Professional Championship was a single-elimination tournament. It was held with 8 participants.
+The 2014 Australian Goldfields Open was a snooker tournament that was held in 2014 and had 130 participants. The sport uses the cue ball.
+The 1980 UK Championship is a snooker tournament which uses a cue stick.
+The 2025 German Masters was won by Kyren Wilson, who competed with 128 players.
+The sport of snooker uses the cue ball.
+The 2014 Paul Hunter Classic uses the cue ball.
+The 2012 EBSA European Snooker Championship was a single-elimination tournament with 80 players.
+The 2006 PIOS - Event 1 was a single-elimination tournament.
+Simon Bedford won the 2007 PIOS - Event 1 qualification tournament.
+The 1994 Welsh Open uses the cue ball.
+The 1999 European Snooker Championship uses the snooker ball.
+The 2010 Welsh Open was a snooker tournament.
+The 1991 Pontins Autumn Open was an invitational tennis tournament.
+The 2009 UK Championship was a snooker tournament.
+The 1993 UK Championship was a single-elimination tennis tournament.
+The 2005 Masters is a snooker tournament.
+The 1991 ACBS Asian Snooker Championship had 2 participants.
+The 1997 British Open was a ranking tournament.
+The 1988 Scottish Professional Championship was a championship.
+The 2010 ACBS Asian Snooker Championship was a championship.
+Rachel Brice is a United States citizen who is a belly dancer. She is a choreographer. She was born in the Middle East and her dance style is belly dance.
+Sofinar Grigoryan is from Armenia and was born in the Arab world. The country of origin of belly dance is the Middle East.
+Anita Berber was a dancer who worked in the field of acting. She was a member of the German Empire and the Weimar Republic. Anita Berber's dance style is erotic dancing.
+Shantae is a video game character who is a belly dancer. She originates from the Middle East and was created in 5000.
+Katie Voutsakis was born in Egypt. She is a belly dancer from the Arab world.
+Bruno, a character in the film Salò, or the 120 Days of Sodom, is a waltz. Bruno is a literary character from the Italian Social Republic. Bruno is from Italy and is in the film The 120 Days of Sodom. Bruno is a musical composition with a time signature of 3/4.
+Louise Frevert is a belly dancer who comes from the Kingdom of Denmark. She is a ballet dancer who is also a choreographer. Her country of origin is the Arab world.
+Anton du Beke is a United Kingdom citizen who dances ballroom dance and choreographs music.
+Nejla Ateş is a belly dancer from Turkey. She is from the Arab world and was born in 5000. She is from Romania.
+Didem was born in the Arab world, in Turkey. She is a belly dancer.
+Salma Hayek is a belly dancer from the Arab world. She was born in France and is a citizen of the United States.
+Aïché Nana is a belly dancer from Lebanon, Italy and the Kingdom of Italy.
+Ighraa is a dance style that originated in the Arab world and is found in Syria. It is a style of belly dance.
+Alexandre Paulikevitch is a belly dancer from Lebanon. He is a dancer from the Arab world and he was born in 5000.
+Cardi B is an American rapper and dancer. She is known for her hip hop music and erotic dancing.
+Zoe Jakes is a belly dancer from the Arab world. She was born in the United States.
+Zouba El-Klobatiyya is a belly dancer from the Sultanate of Egypt. She is a citizen of the Kingdom of Egypt.
+Serena Wilson was born in the Arab world in the United States. She is a belly dancer.
+Stanley Donen is a dancer who choreographed the film "Singin' in the Rain" and is also a tap dancer.
+Jamileh, a belly dance, originated in the Middle East and is performed by a dancer from Iran.
+Nancy Callahan is a character in the film Sin City: A Dame to Kill For. She is an erotic dancer and a comic book character. She is from the United States.
+Peggy Spencer is a dancer and choreographer from the United Kingdom of Great Britain and Ireland.
+Dany Bustros is a dancer who is from Lebanon. He is a belly dancer who was born in 5000 AD.
+Mousbah Baalbaki is a belly dancer who originated in the Arab world. He is from the Middle East.
+Estelle Asmodelle was born in Australia. She comes from the Arab world and her dance style is belly dance.
+Mýa is a dancer from the United States who is a choreographer and composer of music.
+Julianne Hough is a dancer from the United States. She is a ballroom dancer and choreographer.
+Shakira was born in Colombia, in the Arab world. The belly dance is a dance style from the Middle East.
+Sally Mursi is a belly dancer from Egypt. Belly dance originated in the Arab world.
+Victor Kanevsky, a choreographer, was born in the Soviet Union and lives in the United States. He is a ballroom dance style.
+Vartika Jha is a dancer from India, who choreographed the dance style of popping.
+Kini Kapahu is a dancer from the Kingdom of Hawaiʻi in the United States.
+Pierre Dulaine is a dancer from Jordan and Ireland.
+Jean-Marc Généreux is a dancer and choreographer from Canada.
+Anna Janeczko is a Polish agronomist who works with brassinosteroid.
+Kevin Clifton is a UK citizen, he is a dancer and choreographer. He is a ballroom dance.
+Kitten Natividad is a Mexican actor and dancer.
+Edna Deane is a dancer from the United Kingdom. She is a choreographer and dancer.
+Nadia Gamal comes from the Arab world. Her dance style is belly dance.
+Charles Castle is a tap dancer from the United Kingdom.
+Matti Nykänen is an erotic dancer from Finland. He works in the field of ski jumping.
+Jean-Pierre Cassel is a dancer who comes from France and is known for his tap dance.
+La Goony Chonga is a dance style of erotic dancing from the United States.
+Alec Mazo is a dancer from the United States. He is a ballroom dancer.
+Karen and Marcus Hilton are a married couple who perform ballroom dance.
+Suga Pop is a New Zealand dancer who performs the dance style of Popping.
+Sammy Davis Jr. is a United States dancer and tap dancer.
+Corky Ballas is a ballroom dancer from the United States.
+Harm Agteresch is a tap dancer from the Kingdom of the Netherlands.
+The house music style of Jade Above comes from the United States.
+The belly dance style is from the Arab world. Badia Masabni is a dance style.
+Caity Brown is a dancer who performs the Waacking style of dance.
+Jose DeCamps is a ballroom dancer.
+Charles Albert Bridges III is from the United States and is a ballroom dancer.
+Henry "Crip" Heard is a tap dancer.
+Hanna Rún Óladóttir is a ballroom dancer.
+Jared Murillo is a ballroom dancer from the United States.
+Lova Moor is an erotic dancing style.
+Nadja Abd el Farrag is a belly dance.
+Ervinas Merfeldas is a ballroom dancer.
+Gregorio Hernández Ríos is a Rumba dance.
+Jake Pavelka is an erotic dancer.
+Jonathan Roberts is a ballroom dancer.
+Maurizio Benenato is a ballroom dancer.
+Angel Salvadore is an erotic dancer.
+Alex Da Silva is a salsa dancer.
