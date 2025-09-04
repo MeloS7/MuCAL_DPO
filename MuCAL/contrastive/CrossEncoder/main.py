@@ -1,0 +1,160 @@
+import argparse
+import wandb
+from Trainer import Trainer
+from DataLoader import DataLoader
+from CrossEncoder import CrossEncoder
+from RankAccuracy import RankAccuracy
+
+if __name__ == "__main__":
+    args = argparse.ArgumentParser()
+    args.add_argument('-it', '--input_train_path', type=str, default='data/train/merged_train_with_MT.json')
+    args.add_argument('-id', '--input_dev_path', type=str, default='data/dev/merged_dev_with_MT.json')
+    args.add_argument('-ie', '--input_eval_path', type=str, default='data/test/new_test_with_MT.json')
+    args.add_argument('-tbs', '--train_batch_size', type=int, default=32)
+    args.add_argument('-vbs', '--val_batch_size', type=int, default=128)
+    args.add_argument('-ep', '--epochs', type=int, default=5)
+    args.add_argument('-sp', '--save_path', type=str, default='ckpt/model_checkpoint')
+    args.add_argument('-lp', '--load_path', type=str, help='Path to the checkpoint')
+    args.add_argument('-tr', '--train', action='store_true', help='Flag to train the model')
+    args.add_argument('-val', '--validate', action='store_true', help='Flag to validate the model')
+    args.add_argument('-eval', '--evaluate', action='store_true', help='Flag to evaluate the model')
+    args.add_argument('-upload', '--upload_model', action='store_true', help='Flag to upload the model to Huggingface')
+    args.add_argument('-upload_name', '--upload_name', type=str, default='crossencoder_ep10_bs8_trans1')
+    args.add_argument('-wandb', '--use_wandb', action='store_true', help='Flag to use wandb')
+    args.add_argument('-lr', '--learning_rate', type=float, default=2e-5, help='Learning rate')
+    
+    args = args.parse_args()
+    
+    # Parse args
+    train_path = args.input_train_path
+    dev_path = args.input_dev_path
+    eval_path = args.input_eval_path
+    train_batch_size = args.train_batch_size
+    val_batch_size = args.val_batch_size
+    epochs = args.epochs
+    save_path = args.save_path
+    load_path = args.load_path
+    train = args.train
+    validate = args.validate
+    evaluate = args.evaluate
+    upload = args.upload_model
+    learning_rate = args.learning_rate
+    
+    print(f"Train Batch size: {train_batch_size}, Val Batch size: {val_batch_size}, \nEpochs: {epochs}, \nSave path: {save_path}\nLoad path: {load_path}")
+    
+    # Set up language set
+    lang_set = ['en', 'zh', 'fr', 'ar', 'es', 'ru']
+    
+    # Load Data
+    data_loader = DataLoader(train_path, dev_path, eval_path, lang_set)
+    train_data = data_loader.get_train_data()
+    dev_data = data_loader.get_dev_data()
+    
+    print(data_loader)
+    
+    # Load Encoder
+    if load_path:
+        encoder = CrossEncoder.load(load_path)
+    else:
+        # Default Embedding Model
+        # model = 'sentence-transformers/paraphrase-multilingual-mpnet-base-v2'
+        model = 'baai/bge-m3'
+        encoder = CrossEncoder(model)
+
+    # 添加wandb初始化
+    if args.use_wandb:
+        # Initialize W&B
+        wandb.init(
+            project="Multi-Align-G2T",
+            name=f"CrossEncoder_lr_{learning_rate}_batch_{train_batch_size}_epoch_{epochs}_cosine_m3",
+            group="CrossEncoder",
+            config={
+                "learning_rate": learning_rate,
+                "epochs": epochs,
+                "batch_size": train_batch_size,
+                "scheduler": "CosineAnnealingWarmRestarts",
+            }
+        )
+    else:
+        class DummyWandb:
+            def log(self, *args, **kwargs):
+                pass
+            def finish(self):
+                pass
+        wandb = DummyWandb()
+    
+    # Load Trainer
+    trainer = Trainer(
+        encoder, 
+        data_loader, 
+        lr=learning_rate,
+        num_epochs=epochs, 
+        train_batch=train_batch_size, 
+        eval_batch=val_batch_size, 
+        patience=3, 
+        save_path=save_path+'_best',
+        wandb=wandb,
+    )
+    
+    # Train the model
+    if train:
+        trainer.train()
+    
+    if validate:
+        # 获取用于计算MRR的开发集数据
+        dev_mrr_data = data_loader.get_graphset_dev()
+        val_loss, avg_cosine_similarity, mrr_t2g, mrr_g2t, avg_mrr = trainer.validate(dev_data, dev_mrr_data)
+        print(f"Validation Loss: {val_loss:.4f}, Average Matching Score: {avg_cosine_similarity:.4f}")
+        print(f"MRR (T2G): {mrr_t2g:.4f}, MRR (G2T): {mrr_g2t:.4f}, Average MRR: {avg_mrr:.4f}")
+        
+    if evaluate:
+        # Compute loss and positive similarity
+        eval_data = data_loader.get_eval_data()
+        graphset_texts = data_loader.get_graphset_texts()
+        # val_loss, avg_cosine_similarity = trainer.evaluate(eval_data)
+        # print(f"Test Loss: {val_loss:.4f}, Average Matching Score: {avg_cosine_similarity:.4f}")
+        
+        # =========== T2G Part ==============
+        # Compute Rank@N Accuracy and MRR
+        ranker = RankAccuracy(encoder, graphset_texts, lang_set)
+        multi_accuracy_results, multi_mrr = ranker.compute_text_to_multilang_graph_rank_n(n=[1, 3, 10])
+        
+        # Print Rank@N results and MRR
+        print("\nMultilingual T2G - Results:")
+        for rank, accuracy in multi_accuracy_results.items():
+            print(f"Rank@{rank}: {accuracy*100:.2f}%")
+        print(f"MRR: {multi_mrr:.4f}")
+
+        
+        # Compute Monolingual Rank@N Accuracy for each language
+        mono_lang_results = ranker.compute_text_to_monolang_graph_rank_n(n=[1, 3, 10])
+        
+        # Print Monolingual results for each language
+        print("\nMonolingual T2G - Results by Language:")
+        for lang, results in mono_lang_results.items():
+            print(f"\nLanguage: {lang}")
+            for rank in [1, 3, 10]: 
+                print(f"Rank@{rank}: {results[rank]*100:.2f}%")
+            print(f"MRR: {results['MRR']:.4f}")
+            
+        # =========== G2T Part ==============
+        multi_accuracy_results, multi_mrr = ranker.compute_graph_to_multilang_text_rank_n(n=[1, 3, 10])
+        
+        # Print Rank@N results and MRR
+        print("\nMultilingual G2T - Results:")
+        for rank, accuracy in multi_accuracy_results.items():
+            print(f"Rank@{rank}: {accuracy*100:.2f}%")
+        print(f"MRR: {multi_mrr:.4f}")
+        
+        # Compute Monolingual results for each language
+        mono_lang_results = ranker.compute_graph_to_monolang_text_rank_n(n=[1, 3, 10])
+        
+        # Print Monolingual results for each language
+        print("\nMonolingual G2T - Results by Language:")
+        for lang, results in mono_lang_results.items():
+            print(f"\nLanguage: {lang}")
+            for rank in [1, 3, 10]: 
+                print(f"Rank@{rank}: {results[rank]*100:.2f}%")
+            print(f"MRR: {results['MRR']:.4f}")
+    if upload:
+        encoder.upload_model(args.upload_name)
