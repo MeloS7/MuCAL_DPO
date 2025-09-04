@@ -19,4 +19,7 @@ In this part, we provide the training of MuCAL variants, including bi-encoder, c
 ## Code Usage
 Basically, we code all model variants in the similar structures, please check the ```main.py``` file in each component and the demonstrated script before using them.
 
+## Data
+The data is compressed into data.zip file.
+
 
